@@ -10,7 +10,7 @@ The current status is meant to be used in Unity 2020.3 or better. The upper vers
 Dependencies versioning and status
 ----------------------------------
 
-So far this project relies on a set of packages that I could consider, at best, in beta status. These packages are not officially released and they are tagged 0.0.1. The referenced packages exist into this organization and must be cloned individually besides this boilerplate (i.e. as a sibling directory). They are:
+So far this project relies on a set of packages that I could consider, at best, in beta status. These packages are not officially released and they are tagged 0.0.1 or alike (mostly in experimental status). The referenced packages must be cloned individually besides this boilerplate (i.e. as a sibling directory). They are:
 
  - com.alephvault.unity.support: [Clone it - 0.0.1](https://github.com/AlephVault/unity-support).
  - com.alephvault.unity.support.generic: [Clone it - 0.0.1](https://github.com/AlephVault/unity-support-generic).
