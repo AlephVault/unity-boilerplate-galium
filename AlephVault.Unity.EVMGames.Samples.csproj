@@ -13,11 +13,11 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{acca8e23-7a7a-5c22-a49a-a25903f00fb9}</ProjectGuid>
+    <ProjectGuid>{3216085f-8508-dc92-f396-268582307219}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <AssemblyName>AlephVault.Unity.EVMGames.Auth.Runtime</AssemblyName>
+    <AssemblyName>AlephVault.Unity.EVMGames.Samples</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <BaseDirectory>.</BaseDirectory>
@@ -52,18 +52,19 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Types\EVMLoginMessage.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Protocols\IEVMAuthProtocolClientSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Types\IEVMLoginFailed.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Types\IEVMAccountPreview.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Types\ChallengeUtils.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Authoring\Behaviours\EVMClient.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Types\IEVMRecordWithPreview.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Types\EVMLoginFailed.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Protocols\EVMAuthProtocolServerSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Protocols\EVMAuthProtocolDefinition.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Protocols\EVMAuthProtocolClientSide.cs" />
-     <None Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\AlephVault.Unity.EVMGames.Auth.Runtime.asmdef" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\EthModels\Erc20BalanceOfFunctionOutput.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\SampleContractInteractor_tabs.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\EthModels\Erc20TransferFunction.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\SampleContractInteractor_events.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\SampleContractInteractor_indirect.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\SampleContractInteractor_direct.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\SampleSignerAndVerifier.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\EthModels\Erc20TransferEvent.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\SampleContractInteractor.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\SampleContractInteractor_clients.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\EthModels\Erc20BalanceOfFunction.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\SampleContractInteractor_impl.cs" />
+     <None Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\AlephVault.Unity.EVMGames.Samples.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
@@ -657,21 +658,13 @@
  </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="AlephVault.Unity.Binary.Runtime.csproj">
-      <Project>{e97db9fa-e371-1714-36b1-77f47b87e68b}</Project>
-      <Name>AlephVault.Unity.Binary.Runtime</Name>
-    </ProjectReference>
-    <ProjectReference Include="AlephVault.Unity.Meetgard.Runtime.csproj">
-      <Project>{c105d9dd-5e5f-350e-49a9-6f1fb2996c59}</Project>
-      <Name>AlephVault.Unity.Meetgard.Runtime</Name>
-    </ProjectReference>
-    <ProjectReference Include="AlephVault.Unity.Meetgard.Auth.Runtime.csproj">
-      <Project>{84748b79-6c81-2fa4-2fe7-2f80fc3ee19e}</Project>
-      <Name>AlephVault.Unity.Meetgard.Auth.Runtime</Name>
-    </ProjectReference>
     <ProjectReference Include="AlephVault.Unity.EVMGames.Runtime.csproj">
       <Project>{808bced6-0a29-5bed-2ae7-bec8f4baa9dd}</Project>
       <Name>AlephVault.Unity.EVMGames.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="AlephVault.Unity.Support.Runtime.csproj">
+      <Project>{8b2c4eb2-9fae-7037-bddd-bee8dfe65f55}</Project>
+      <Name>AlephVault.Unity.Support.Runtime</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

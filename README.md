@@ -1,6 +1,6 @@
-# A WindRose boilerplate for Unity
+# A NetRose and EVMGames boilerplate for Unity
 
-This is a boilerplate project. It includes NetRose and all the required dependencies, and will be tagged with local or specific versions of those dependency packages.
+This is a boilerplate project. It includes EVMGames/NetRose and all the required dependencies, and will be tagged with local or specific versions of those dependency packages.
 
 Unity version
 -------------
@@ -36,6 +36,10 @@ So far this project relies on a set of packages that I could consider, at best, 
  - com.gamemeanmachine.unity.windrose.cubeworlds [Clone it - 0.0.1](https://gitlab.com/gamemeanmachine/unity-windrose-cubeworlds).
  - com.gamemeanmachine.unity.windrose.refmapchars [Clone it - 0.0.1](https://gitlab.com/gamemeanmachine/unity-windrose-refmapchars).
  - com.gamemeanmachine.unity.netrose [Clone it - 0.0.2](https://gitlab.com/gamemeanmachine/unity-netrose).
+ - com.alephvault.unity.ipfs [Clone it - 0.0.1](https://github.com/AlephVault/unity-ipfs).
+ - com.alephvault.unity.evmgames [Clone it - 0.0.1](https://github.com/AlephVault/unity-evmgames).
+ - com.alephvault.unity.evmgames.auth [Clone it - 0.0.1](https://github.com/AlephVault/unity-evmgames-auth).
+ - com.alephvault.unity.evmgames.livecache [Clone it - 0.0.1](https://github.com/AlephVault/unity-evmgames-livecache).
 
 Licenses
 --------
@@ -48,4 +52,11 @@ Credits must be given, for those assets, to:
     Lanea Zimmerman (Sharm)
     CC-BY-SA 3.0 / CC-BY 3.0 / GPL 3.0
     https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+
+Plugins
+-------
+
+In order to use this boilerplate, as described in the documentation for com.alephvault.unity.evmgames, 6 compiled DLL files are needed in the `Plugins/` directory.
+
+These files can be found as part of a compressed file available in this boilerplate: `evmgames-plugins.zip`. That file contained the required DLL files, which must be placed directly into the `Plugins/` directory.
 

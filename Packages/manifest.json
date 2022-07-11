@@ -2,6 +2,10 @@
   "dependencies": {
     "com.alephvault.unity.binary": "file:../../unity-binary",
     "com.alephvault.unity.camjam": "file:../../unity-camjam",
+    "com.alephvault.unity.evmgames": "file:../../unity-evmgames",
+    "com.alephvault.unity.evmgames.auth": "file:../../unity-evmgames-auth",
+    "com.alephvault.unity.evmgames.livecache": "file:../../unity-evmgames-livecache",
+    "com.alephvault.unity.ipfs": "file:../../unity-ipfs",
     "com.alephvault.unity.layout": "file:../../unity-layout",
     "com.alephvault.unity.meetgard": "file:../../unity-meetgard",
     "com.alephvault.unity.meetgard.auth": "file:../../unity-meetgard-auth",

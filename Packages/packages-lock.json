@@ -14,6 +14,40 @@
       "source": "local",
       "dependencies": {}
     },
+    "com.alephvault.unity.evmgames": {
+      "version": "file:../../unity-evmgames",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.alephvault.unity.support": "0.0.2"
+      }
+    },
+    "com.alephvault.unity.evmgames.auth": {
+      "version": "file:../../unity-evmgames-auth",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.alephvault.unity.meetgard.auth": "0.0.2",
+        "com.alephvault.unity.evmgames": "0.0.1"
+      }
+    },
+    "com.alephvault.unity.evmgames.livecache": {
+      "version": "file:../../unity-evmgames-livecache",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.alephvault.unity.evmgames": "0.0.1",
+        "com.alephvault.unity.remotestorage": "0.0.2"
+      }
+    },
+    "com.alephvault.unity.ipfs": {
+      "version": "file:../../unity-ipfs",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.alephvault.unity.support": "0.0.1"
+      }
+    },
     "com.alephvault.unity.layout": {
       "version": "file:../../unity-layout",
       "depth": 0,
