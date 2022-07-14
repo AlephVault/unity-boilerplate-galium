@@ -53,32 +53,32 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Authoring\Behaviours\AnimatedSelectionApplier.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\Selectors\AnimatedPivotedSelection.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\Selectors\MultiRoseAnimatedSelection.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Authoring\Behaviours\MultiStateSelectionApplier.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\IncompatibleSelectionException.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\MultiSettings.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\Selectors\MultiSpritedPivotedSelection.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\Selectors\MultiRoseSpritedPivotedSelection.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\Selectors\RoseSpritedSelection.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Authoring\Behaviours\MultiSpritedSelectionApplier.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Authoring\Behaviours\MultiRoseAnimatedSelectionApplier.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Authoring\Behaviours\SpritedSelectionApplier.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Authoring\Behaviours\RoseSpritedSelectionApplier.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\Selectors\RoseAnimatedPivotedSelection.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\Selectors\AnimatedPivotedSelection.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Authoring\Behaviours\MultiStateSelectionApplier.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\Selectors\MultiRoseAnimatedPivotedSelection.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\Selectors\MultiAnimatedSelection.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Authoring\Behaviours\MultiAnimatedSelectionApplier.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\MultiSettings.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\Selectors\MultiSpritedPivotedSelection.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Authoring\Behaviours\MultiRoseSpritedSelectionApplier.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\Selectors\MultiRoseSpritedPivotedSelection.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\Selectors\RoseSpritedSelection.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\Selectors\RoseSpritedPivotedSelection.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Authoring\Behaviours\MultiSpritedSelectionApplier.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Authoring\Behaviours\MultiRoseAnimatedSelectionApplier.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\Selectors\MultiAnimatedPivotedSelection.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Authoring\Behaviours\SpritedSelectionApplier.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Authoring\Behaviours\RoseAnimatedSelectionApplier.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\Selectors\SpritedPivotedSelection.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\Selectors\SpritedSelection.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\Selectors\MultiSpritedSelection.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Authoring\Behaviours\RoseSpritedSelectionApplier.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\Selectors\AnimatedSelection.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\Selectors\RoseAnimatedSelection.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\Selectors\MultiRoseSpritedSelection.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\Types\Selectors\RoseAnimatedPivotedSelection.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-windrose-spriteutils\Runtime\GameMeanMachine.Unity.WindRose.SpriteUtils.Runtime.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

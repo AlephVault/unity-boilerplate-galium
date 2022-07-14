@@ -53,17 +53,17 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Runtime\Authoring\Behaviours\Interactors\DefaultLists\SimpleStringModel.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Runtime\Authoring\Behaviours\Hideable.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Runtime\Types\Exception.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Runtime\Authoring\Behaviours\Interactors\TextInteractor.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Runtime\Authoring\Behaviours\Interactors\NullInteractor.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Runtime\Authoring\Behaviours\Interactors\ListInteractor.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Runtime\Authoring\Behaviours\Interactors\InteractorsManager.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Runtime\Authoring\Behaviours\InteractiveMessage.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Runtime\Authoring\Behaviours\Interactors\DefaultLists\SimpleStringListInteractor.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Runtime\Authoring\Behaviours\Hideable.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Runtime\Types\Exception.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Runtime\Authoring\Behaviours\Interactors\NullInteractor.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Runtime\Authoring\Behaviours\Interactors\ListInteractor.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Runtime\Authoring\Behaviours\Interactors\Interactor.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Runtime\Authoring\Behaviours\InteractiveInterface.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Runtime\Authoring\Behaviours\Interactors\ButtonsInteractor.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Runtime\Authoring\Behaviours\Interactors\DefaultLists\SimpleStringListInteractor.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Runtime\Authoring\Behaviours\InteractiveMessageContent.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Runtime\GameMeanMachine.Unity.GabTab.Runtime.asmdef" />
  <Reference Include="UnityEngine">

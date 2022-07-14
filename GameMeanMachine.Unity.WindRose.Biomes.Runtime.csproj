@@ -52,11 +52,11 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-biomes\Runtime\Authoring\ScriptableObjects\Tiles\BiomeSet.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-biomes\Runtime\Authoring\Behaviours\Entities\Objects\Strategies\BiomeAwareSimpleObjectStrategy.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-biomes\Runtime\Authoring\Behaviours\Entities\Objects\Strategies\BiomeObjectStrategy.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-biomes\Runtime\Types\MissingBiomeSetException.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-biomes\Runtime\Authoring\ScriptableObjects\Tiles\Strategies\BiomeTileStrategy.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-biomes\Runtime\Authoring\ScriptableObjects\Tiles\BiomeSet.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-biomes\Runtime\Types\MissingBiomeSetException.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-biomes\Runtime\Authoring\Behaviours\World\Layers\Objects\ObjectsManagementStrategies\BiomeObjectsManagementStrategy.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-biomes\Runtime\Authoring\Behaviours\World\Layers\Objects\ObjectsManagementStrategies\BiomeAwareSimpleObjectsManagementStrategy.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-windrose-biomes\Runtime\GameMeanMachine.Unity.WindRose.Biomes.Runtime.asmdef" />

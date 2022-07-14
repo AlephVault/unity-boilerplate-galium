@@ -53,13 +53,13 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\MenuActions\Objects\TeleporterUtils.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\Authoring\Behaviours\World\Layers\Objects\ObjectsManagementStrategies\Solidness\SolidObjectMask.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\MenuActions\Maps\MapUtils.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\MenuActions\Tiles\TileUtils.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\MenuActions\Tiles\BundledTileUtils.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\MenuActions\Visuals\VisualUtils.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\MenuActions\Objects\ObjectUtils.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\MenuActions\Tiles\StandardTileUtils.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\Authoring\Behaviours\World\Layers\Objects\ObjectsManagementStrategies\Solidness\SolidObjectMask.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\MenuActions\Maps\MapUtils.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\MenuActions\Tiles\TileUtils.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\GameMeanMachine.Unity.WindRose.Editor.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

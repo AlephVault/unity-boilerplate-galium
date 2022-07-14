@@ -54,16 +54,16 @@
   <ItemGroup>
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-auth\Samples\Scripts\SampleAuthChatProtocolDefinition.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-auth\Samples\Scripts\Kicked.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-auth\Samples\Scripts\SampleAuthChatProtocolClientSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-auth\Samples\Scripts\LoginFailed.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-auth\Samples\Scripts\SampleSimpleAuthProtocolDefinition.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-auth\Samples\Scripts\SampleAccountPreview.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-auth\Samples\Scripts\UserPass.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-auth\Samples\Scripts\SampleAuthChatClientKeys.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-auth\Samples\Scripts\SampleAuthChatProtocolClientSide.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-auth\Samples\Scripts\LoginFailed.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-auth\Samples\Scripts\SampleSimpleAuthProtocolServerSide.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-auth\Samples\Scripts\SampleAuthChatServerKeys.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-auth\Samples\Scripts\SampleAuthChatProtocolServerSide.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-auth\Samples\Scripts\SampleSimpleAuthProtocolClientSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-auth\Samples\Scripts\UserPass.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-auth\Samples\Scripts\SampleAuthChatClientKeys.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-auth\Samples\Scripts\SampleAccount.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-meetgard-auth\Samples\AlephVault.Unity.Meetgard.Auth.Samples.asmdef" />
  <Reference Include="UnityEngine">

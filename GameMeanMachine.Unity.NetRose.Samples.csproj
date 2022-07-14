@@ -52,20 +52,20 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Samples\Scripts\Common\Types\Ownable.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Samples\Scripts\Client\EmptyModelClientSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Samples\Scripts\Common\Protocols\ClientMovementProtocolDefinition.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Samples\Scripts\Server\Door.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Samples\Scripts\Server\Protocols\ClientMovementProtocolServerSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Samples\Scripts\Client\Protocols\ClientMovementProtocolClientSide.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Samples\Scripts\Server\SampleServerStarter.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Samples\Scripts\Server\OwnableModelServerSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Samples\Scripts\Client\SampleClientHandler.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Samples\Scripts\Server\Protocols\SamplePrincipalProtocolServerSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Samples\Scripts\Server\TeleportSpawner.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Samples\Scripts\Client\OwnableModelClientSide.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Samples\Scripts\Server\DoorLinker.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Samples\Scripts\Server\EmptyModelServerSide.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Samples\Scripts\Common\Types\Ownable.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Samples\Scripts\Common\Protocols\ClientMovementProtocolDefinition.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Samples\Scripts\Client\Protocols\ClientMovementProtocolClientSide.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Samples\Scripts\Client\SampleClientHandler.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Samples\Scripts\Server\Protocols\SamplePrincipalProtocolServerSide.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Samples\Scripts\Server\TeleportSpawner.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-netrose\Samples\GameMeanMachine.Unity.NetRose.Samples.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

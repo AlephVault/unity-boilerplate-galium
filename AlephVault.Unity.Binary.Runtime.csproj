@@ -52,40 +52,40 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Buffer.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Color.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Unions\Bool.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Enum.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Ray2D.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Vector3.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Double.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\UShort.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Char.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Unions\Float8.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Byte.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\SByte.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Vector2.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Serializer.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Quaternion.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Vector4.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Long.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\BinaryUtils.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Wrapper.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\PooledBuffer.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Unions\Float4.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Color32.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Ray.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\String.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\ISerializable.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\ByteArray.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Writer.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Reader.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Int.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\UInt.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Bool.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Short.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\ULong.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Float.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Buffer.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Color.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Unions\Bool.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Enum.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Vector3.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Double.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\UShort.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Byte.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Long.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\BinaryUtils.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Unions\Float4.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\Ray.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\String.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Reader.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\UInt.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\Wrappers\ULong.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-binary\Runtime\AlephVault.Unity.Binary.Runtime.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

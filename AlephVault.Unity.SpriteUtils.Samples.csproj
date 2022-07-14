@@ -53,9 +53,9 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-spriteutils\Samples\Scripts\SampleSpriteGridSelectionAssigner.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-spriteutils\Samples\Scripts\SampleSpriteGridFactory.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-spriteutils\Samples\Scripts\SampleSpriteGridSelectionApplier.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-spriteutils\Samples\Scripts\SampleSpriteGridSelection.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-spriteutils\Samples\Scripts\SampleSpriteGridFactory.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-spriteutils\Samples\AlephVault.Unity.SpriteUtils.Samples.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

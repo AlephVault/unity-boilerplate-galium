@@ -52,12 +52,12 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Editor\MenuActions\InteractiveInterface\InteractorUtils.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Editor\MenuActions\InteractiveInterface\ListInteractors\SimpleStringListInteractorUtils.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Editor\MenuActions\InteractiveInterface\TextInteractorUtils.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Editor\MenuActions\InteractiveInterface\ButtonsInteractorUtils.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Editor\MenuActions\InteractiveInterface\InteractorUtils.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Editor\MenuActions\InteractiveInterface\NullInteractorUtils.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Editor\MenuActions\InteractiveInterfaceUtils.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Editor\MenuActions\InteractiveInterface\ListInteractors\SimpleStringListInteractorUtils.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Editor\DictionaryPropertyDrawer.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-gabtab\Editor\GameMeanMachine.Unity.GabTab.Editor.asmdef" />
  <Reference Include="UnityEngine">

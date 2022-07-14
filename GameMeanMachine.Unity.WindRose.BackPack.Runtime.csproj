@@ -52,14 +52,14 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-backpack-plugin\Runtime\Authoring\Behaviours\Drops\SimpleDropContainerRenderer.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-backpack-plugin\Runtime\Authoring\Behaviours\Entities\Objects\Bags\StandardBag.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-backpack-plugin\Runtime\Authoring\Behaviours\UI\Inventory\BasicStandardBagControl.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-backpack-plugin\Runtime\Authoring\Behaviours\World\Layers\Drop\InventoryMapSizedPositioningManagementStrategy.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-backpack-plugin\Runtime\Authoring\Behaviours\World\Layers\Drop\InventoryDropLayerRenderingListener.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-backpack-plugin\Runtime\Authoring\Behaviours\UI\Inventory\BasicStandardInventoryLink.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-backpack-plugin\Runtime\Authoring\Behaviours\World\Layers\Drop\DropLayer.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-backpack-plugin\Runtime\Authoring\Behaviours\World\Layers\Drop\InventoryDropLayerRenderingManagementStrategy.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-backpack-plugin\Runtime\Authoring\Behaviours\Drops\SimpleDropContainerRenderer.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-backpack-plugin\Runtime\Authoring\Behaviours\UI\Inventory\BasicStandardBagControl.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-backpack-plugin\Runtime\Authoring\Behaviours\World\Layers\Drop\InventoryDropLayerRenderingListener.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-backpack-plugin\Runtime\Authoring\Behaviours\UI\Inventory\BasicStandardInventoryLink.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-windrose-backpack-plugin\Runtime\GameMeanMachine.Unity.WindRose.BackPack.Runtime.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

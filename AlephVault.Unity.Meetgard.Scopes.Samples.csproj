@@ -54,17 +54,17 @@
   <ItemGroup>
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-scopes\Samples\Scripts\SampleExtraScopeServerSide.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-scopes\Samples\Scripts\SampleScopeClientSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-scopes\Samples\Scripts\SampleServerStarter.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-scopes\Samples\Scripts\SampleProtocolServerSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-scopes\Samples\Scripts\SampleProtocolClientSide.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-scopes\Samples\Scripts\SampleObjectClientSide.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-scopes\Samples\Scripts\SampleObjectServerSide.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-scopes\Samples\Scripts\SampleModel.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-scopes\Samples\Scripts\SampleObject.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-scopes\Samples\Scripts\SampleClientStarter.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-scopes\Samples\Scripts\SampleStorage.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-scopes\Samples\Scripts\SampleServerStarter.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-scopes\Samples\Scripts\SampleProtocolClientSide.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-scopes\Samples\Scripts\SampleObject.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-scopes\Samples\Scripts\SampleDefaultScopeServerSide.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-scopes\Samples\Scripts\SampleProtocolDefinition.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard-scopes\Samples\Scripts\SampleStorage.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-meetgard-scopes\Samples\AlephVault.Unity.Meetgard.Scopes.Samples.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

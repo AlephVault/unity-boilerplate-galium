@@ -52,11 +52,11 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-textureutils\Runtime\Utils\Textures_2D.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-textureutils\Runtime\Types\Texture2DSource.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-textureutils\Runtime\Types\TexturePool.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-textureutils\Runtime\Utils\Textures_2D_GPU.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-textureutils\Runtime\Utils\Textures_2D_CPU.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-textureutils\Runtime\Utils\Textures_2D.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-textureutils\Runtime\Shaders\Paste.shader" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-textureutils\Runtime\AlephVault.Unity.TextureUtils.Runtime.asmdef" />
  <Reference Include="UnityEngine">
