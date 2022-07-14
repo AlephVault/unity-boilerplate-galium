@@ -52,11 +52,11 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-spriteutils\Runtime\Types\SpriteGrid.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-spriteutils\Runtime\Authoring\Behaviours\SpriteGridSelectionApplier.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-spriteutils\Runtime\Types\SpriteGridSelection.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-spriteutils\Runtime\Types\IdentifiedSpriteGridPool.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-spriteutils\Runtime\Types\MappedSpriteGridSelection.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-spriteutils\Runtime\Types\SpriteGrid.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-spriteutils\Runtime\Types\SpriteGridSelection.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-spriteutils\Runtime\Types\IdentifiedSpriteGrid.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-spriteutils\Runtime\AlephVault.Unity.SpriteUtils.Runtime.asmdef" />
  <Reference Include="UnityEngine">

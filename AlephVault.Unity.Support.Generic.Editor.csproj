@@ -55,8 +55,8 @@
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-support-generic\Editor\Authoring\Types\DictionaryPropertyDrawer.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-support-generic\Editor\Authoring\Types\OrderedSetPropertyDrawer.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-support-generic\Editor\Vendor\IUnified\Authoring\Types\IUnifiedContainerSelectWindow.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-support-generic\Editor\Vendor\IUnified\Authoring\Types\IUnifiedContainerPropertyDrawer.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-support-generic\Editor\Vendor\IUnified\Authoring\Types\IUnifiedGUIHelper.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-support-generic\Editor\Vendor\IUnified\Authoring\Types\IUnifiedContainerPropertyDrawer.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-support-generic\Editor\AlephVault.Unity.Support.Generic.Editor.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

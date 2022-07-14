@@ -52,8 +52,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-gabtab-plugin\Runtime\Authoring\Behaviours\UI\HUDLinker.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-gabtab-plugin\Runtime\Authoring\Behaviours\UI\HUD.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-gabtab-plugin\Runtime\Authoring\Behaviours\UI\HUDLinker.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-windrose-gabtab-plugin\Runtime\GameMeanMachine.Unity.WindRose.GabTab.Runtime.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

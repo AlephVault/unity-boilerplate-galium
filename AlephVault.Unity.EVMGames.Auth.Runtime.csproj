@@ -52,17 +52,17 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Types\EVMLoginMessage.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Protocols\IEVMAuthProtocolClientSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Types\IEVMLoginFailed.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Types\IEVMAccountPreview.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Types\ChallengeUtils.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Authoring\Behaviours\EVMClient.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Types\IEVMRecordWithPreview.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Authoring\Behaviours\EVMClient.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Types\IEVMLoginFailed.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Types\EVMLoginFailed.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Protocols\EVMAuthProtocolServerSide.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Protocols\EVMAuthProtocolDefinition.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Protocols\EVMAuthProtocolClientSide.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Types\EVMLoginMessage.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Protocols\EVMAuthProtocolServerSide.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Types\ChallengeUtils.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\Protocols\IEVMAuthProtocolClientSide.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Runtime\AlephVault.Unity.EVMGames.Auth.Runtime.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

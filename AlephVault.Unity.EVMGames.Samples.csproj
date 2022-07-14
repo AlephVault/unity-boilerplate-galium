@@ -52,16 +52,16 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\EthModels\Erc20BalanceOfFunctionOutput.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\SampleContractInteractor_tabs.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\EthModels\Erc20TransferFunction.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\SampleContractInteractor_events.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\SampleContractInteractor_indirect.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\SampleContractInteractor_direct.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\SampleSignerAndVerifier.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\EthModels\Erc20TransferEvent.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\SampleContractInteractor.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\SampleContractInteractor_clients.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\EthModels\Erc20BalanceOfFunctionOutput.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\SampleContractInteractor_tabs.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\EthModels\Erc20TransferFunction.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\SampleContractInteractor_indirect.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\SampleContractInteractor_direct.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\EthModels\Erc20BalanceOfFunction.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\Scripts\SampleContractInteractor_impl.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Samples\AlephVault.Unity.EVMGames.Samples.asmdef" />

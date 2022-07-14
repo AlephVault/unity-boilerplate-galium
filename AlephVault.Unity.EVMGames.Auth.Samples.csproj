@@ -52,12 +52,12 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Samples\Scripts\SampleAccountPreviewDataType.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Samples\Scripts\SampleEVMAuthProtocolServerSide.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Samples\Scripts\SampleServerLauncher.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Samples\Scripts\SampleEVMAuthProtocolClientSide.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Samples\Scripts\SampleAccountDataType.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Samples\Scripts\DisconnectButton.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Samples\Scripts\SampleServerLauncher.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Samples\Scripts\SampleAccountPreviewDataType.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-evmgames-auth\Samples\AlephVault.Unity.EVMGames.Auth.Samples.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

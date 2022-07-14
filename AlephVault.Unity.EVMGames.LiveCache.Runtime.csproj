@@ -52,16 +52,16 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-livecache\Runtime\Types\Cache\ERC721OwnershipCacheHandler.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-livecache\Runtime\Types\Cache\ERC1155OwnershipCacheHandler.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-livecache\Runtime\Types\Cache\ERC721Ownership.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-livecache\Runtime\Types\Cache\ERC20BalanceCacheHandler.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-livecache\Runtime\Types\Exception.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-livecache\Runtime\Authoring\Behaviours\StateGrabber.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-livecache\Runtime\Types\Cache\ERC721Ownership.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-livecache\Runtime\Types\Cache\StateCacheHandler.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-livecache\Runtime\Types\Cache\State.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-livecache\Runtime\Types\Cache\ERC1155Ownership.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-livecache\Runtime\Types\Cache\StateCacheHandler.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-livecache\Runtime\Authoring\Behaviours\StateGrabber.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-livecache\Runtime\Types\Cache\ERC1155OwnershipCacheHandler.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-livecache\Runtime\Types\Cache\ERC20Balance.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-livecache\Runtime\Types\Cache\ERC20BalanceCacheHandler.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames-livecache\Runtime\Types\Cache\ERC721OwnershipCacheHandler.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-evmgames-livecache\Runtime\AlephVault.Unity.EVMGames.LiveCache.Runtime.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

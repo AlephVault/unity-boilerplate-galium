@@ -52,15 +52,15 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\Echo.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\Line.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\ChatProtocolClientSide.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\ChatClientKeys.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\ChatServerKeys.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\ChatProtocolServerSide.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\Echo.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\Said.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\Nickname.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\ChatServerKeys.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\ChatProtocolDefinition.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\ChatProtocolServerSide.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\AlephVault.Unity.Meetgard.Samples.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
