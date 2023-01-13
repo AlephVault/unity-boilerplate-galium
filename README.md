@@ -35,7 +35,7 @@ So far this project relies on a set of packages that I could consider, at best, 
  - com.gamemeanmachine.unity.windrose.neighbourteleports [Clone it - 0.0.2](https://gitlab.com/gamemeanmachine/unity-windrose-neighbourteleports).
  - com.gamemeanmachine.unity.windrose.cubeworlds [Clone it - 0.0.1](https://gitlab.com/gamemeanmachine/unity-windrose-cubeworlds).
  - com.gamemeanmachine.unity.windrose.refmapchars [Clone it - 0.0.1](https://gitlab.com/gamemeanmachine/unity-windrose-refmapchars).
- - com.gamemeanmachine.unity.windrose.lpc-biomes [Clone it - 0.0.1](https://gitlab.com/gamemeanmachine/unity-windrose-lpc-biomes).
+ - com.gamemeanmachine.unity.windrose.lpcbiomes [Clone it - 0.0.1](https://gitlab.com/gamemeanmachine/unity-windrose-lpcbiomes).
  - com.gamemeanmachine.unity.netrose [Clone it - 0.0.2](https://gitlab.com/gamemeanmachine/unity-netrose).
  - com.alephvault.unity.ipfs [Clone it - 0.0.1](https://github.com/AlephVault/unity-ipfs).
  - com.alephvault.unity.evmgames [Clone it - 0.0.1](https://github.com/AlephVault/unity-evmgames).
