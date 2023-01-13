@@ -297,11 +297,29 @@
  <Reference Include="Unity.Plastic.Antlr3.Runtime">
  <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
  </Reference>
+ <Reference Include="Common.Logging.Core">
+ <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Assets/Common.Logging.Core.dll</HintPath>
+ </Reference>
+ <Reference Include="QRCoder.Unity">
+ <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Assets/QRCoder.Unity.dll</HintPath>
+ </Reference>
  <Reference Include="log4netPlastic">
  <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
  </Reference>
+ <Reference Include="BouncyCastle.Crypto">
+ <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Assets/BouncyCastle.Crypto.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Drawing.Common">
+ <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Assets/System.Drawing.Common.dll</HintPath>
+ </Reference>
+ <Reference Include="Common.Logging">
+ <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Assets/Common.Logging.dll</HintPath>
+ </Reference>
  <Reference Include="Newtonsoft.Json">
  <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
+ </Reference>
+ <Reference Include="QRCoder">
+ <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Assets/QRCoder.dll</HintPath>
  </Reference>
  <Reference Include="unityplastic">
  <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
