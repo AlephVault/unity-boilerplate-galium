@@ -29,7 +29,7 @@ So far this project relies on a set of packages that I could consider, at best, 
  - com.gamemeanmachine.unity.backpack: [Clone it - 0.0.1](https://gitlab.com/gamemeanmachine/unity-backpack/-/tree/0.0.1).
  - com.gamemeanmachine.unity.gabtab: [Clone it - 0.0.1](https://gitlab.com/gamemeanmachine/unity-gabtab/-/tree/0.0.1).
  - com.gamemeanmachine.unity.windrose: [Clone it - 0.0.6](https://gitlab.com/gamemeanmachine/unity-windrose/-/tree/0.0.6).
- - com.gamemeanmachine.unity.windrose.biomes: [Clone it - 0.0.5](https://gitlab.com/gamemeanmachine/unity-windrose-biomes/-/tree/0.0.4).
+ - com.gamemeanmachine.unity.windrose.biomes: [Clone it - 0.0.4](https://gitlab.com/gamemeanmachine/unity-windrose-biomes/-/tree/0.0.4).
  - com.gamemeanmachine.unity.windrose-backpack: [Clone it - 0.0.1](https://gitlab.com/gamemeanmachine/unity-windrose-backpack-plugin/-/tree/0.0.1).
  - com.gamemeanmachine.unity.windrose-gabtab: [Clone it - 0.0.1](https://gitlab.com/gamemeanmachine/unity-windrose-gabtab-plugin/-/tree/0.0.1).
  - com.gamemeanmachine.unity.windrose.spriteutils: [Clone it - 0.0.3](https://gitlab.com/gamemeanmachine/unity-windrose-spriteutils/-/tree/0.0.3).
