@@ -13,11 +13,11 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{12c0c73d-8e04-a987-065c-30e35bc1a74c}</ProjectGuid>
+    <ProjectGuid>{70d8d971-d5ad-ed1a-f736-9b6ba5582bdd}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <AssemblyName>AlephVault.Unity.Meetgard.Samples</AssemblyName>
+    <AssemblyName>GameMeanMachine.Unity.WindRose.RefMapChars.Runtime</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <BaseDirectory>.</BaseDirectory>
@@ -52,21 +52,53 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\Line.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\ChatProtocolClientSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\ChatClientKeys.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Throttle\SampleThrottledProtocolServerSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\ChatServerKeys.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\ChatProtocolServerSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\Echo.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\Said.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\Nickname.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Throttle\SampleThrottledProtocolClientSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Throttle\SampleThrottledClientControlKeys.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Throttle\SampleThrottledServerControlKeys.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Throttle\SampleThrottledProtocolDefinition.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\ChatProtocolDefinition.cs" />
-     <None Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\AlephVault.Unity.Meetgard.Samples.asmdef" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\ScriptableObjects\RefMapBody.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\ScriptableObjects\RefMapItemType.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\Behaviours\RefMapStandardStatueApplier.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\SkilledHandItemTrait.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\DualTrait.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\ScriptableObjects\RefMapCache.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\ScriptableObjects\RefMapBundle.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\Behaviours\RefMapBaseApplier.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\Standard\ChestTrait.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\DumbHandItemTrait.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\Standard\PantsTrait.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\BodyTrait.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\Behaviours\RefMapStandardCharacterApplier.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\IRefMapSimpleComposite.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\IApplier.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\ScriptableObjects\RefMapExtra.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\Simple\ClothTrait.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\HatTrait.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\Standard\ShirtTrait.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\Standard\ShoulderTrait.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Selectors\RefMapStatueSelector.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\Behaviours\RefMapBaseModelHolder.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Core\RefMapUtils.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\Behaviours\RefMapSimpleApplier.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\IRefMapSimpleModel.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\RefMapSource.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\Standard\ArmsTrait.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\Behaviours\RefMapSimpleStatueApplier.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\Behaviours\RefMapSimpleModelHolder.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\IRefMapBaseModel.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\HairTrait.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\Standard\LongShirtTrait.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\Standard\WaistTrait.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\NecklaceTrait.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\Standard\BootsTrait.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\Behaviours\RefMapStandardModelHolder.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\Behaviours\RefMapStandardApplier.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\IRefMapStandardModel.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\ScriptableObjects\RefMapSex.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\IRefMapStandardComposite.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Selectors\RefMapCharacterSelector.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\ScriptableObjects\RefMapItem.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\SimpleTrait.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\IRefMapBaseComposite.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\Behaviours\RefMapSimpleCharacterApplier.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\Standard\CloakTrait.cs" />
+     <None Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\GameMeanMachine.Unity.WindRose.RefMapChars.Runtime.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
@@ -678,17 +710,25 @@
  </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="AlephVault.Unity.Meetgard.Runtime.csproj">
-      <Project>{c105d9dd-5e5f-350e-49a9-6f1fb2996c59}</Project>
-      <Name>AlephVault.Unity.Meetgard.Runtime</Name>
+    <ProjectReference Include="AlephVault.Unity.Support.Generic.Runtime.csproj">
+      <Project>{a2dbfef4-26cd-0644-f0c2-b04ade821ac3}</Project>
+      <Name>AlephVault.Unity.Support.Generic.Runtime</Name>
     </ProjectReference>
-    <ProjectReference Include="AlephVault.Unity.Binary.Runtime.csproj">
-      <Project>{e97db9fa-e371-1714-36b1-77f47b87e68b}</Project>
-      <Name>AlephVault.Unity.Binary.Runtime</Name>
+    <ProjectReference Include="AlephVault.Unity.TextureUtils.Runtime.csproj">
+      <Project>{8446ba97-ea97-94fa-8b2a-7885aeef546b}</Project>
+      <Name>AlephVault.Unity.TextureUtils.Runtime</Name>
     </ProjectReference>
-    <ProjectReference Include="AlephVault.Unity.Support.Runtime.csproj">
-      <Project>{8b2c4eb2-9fae-7037-bddd-bee8dfe65f55}</Project>
-      <Name>AlephVault.Unity.Support.Runtime</Name>
+    <ProjectReference Include="AlephVault.Unity.SpriteUtils.Runtime.csproj">
+      <Project>{4265055e-3da4-42de-7f27-edf961c306fb}</Project>
+      <Name>AlephVault.Unity.SpriteUtils.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="GameMeanMachine.Unity.WindRose.SpriteUtils.Runtime.csproj">
+      <Project>{9fec95f0-3e7f-a71a-4d22-fa4e47ff5db8}</Project>
+      <Name>GameMeanMachine.Unity.WindRose.SpriteUtils.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="GameMeanMachine.Unity.WindRose.Runtime.csproj">
+      <Project>{f65c68fa-8c14-46d0-5ca6-9f1ac658a089}</Project>
+      <Name>GameMeanMachine.Unity.WindRose.Runtime</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

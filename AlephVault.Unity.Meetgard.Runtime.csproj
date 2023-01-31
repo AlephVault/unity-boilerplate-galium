@@ -61,6 +61,7 @@
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Runtime\Types\MessageOverflowException.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Runtime\Types\MissingZeroProtocol.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Runtime\Utils\MessageUtils.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Runtime\Authoring\Behaviours\Server\ServerSideThrottler.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Runtime\Authoring\Behaviours\Server\NetworkServer\NetworkServer_main.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Runtime\Types\MessageHeader.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Runtime\Authoring\Behaviours\Client\NetworkClient\NetworkClient_streams.cs" />
@@ -93,6 +94,7 @@
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Runtime\Types\Endpoints\Remote\NetworkRemoteEndpoint_lifeCycle.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Runtime\Types\OutgoingMessageTypeMismatchException.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Runtime\Types\UnknownProtocolException.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Runtime\Authoring\Behaviours\Client\ClientSideThrottler.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Runtime\Protocols\PingProtocolDefinition.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Runtime\AlephVault.Unity.Meetgard.Runtime.asmdef" />
  <Reference Include="UnityEngine">

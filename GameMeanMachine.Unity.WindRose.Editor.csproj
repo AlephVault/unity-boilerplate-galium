@@ -53,6 +53,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\MenuActions\Objects\TeleporterUtils.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\MenuActions\Boilerplates\CreateObjectStrategy.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\MenuActions\Tiles\BundledTileUtils.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\MenuActions\Visuals\VisualUtils.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\MenuActions\Objects\ObjectUtils.cs" />
@@ -60,7 +61,11 @@
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\Authoring\Behaviours\World\Layers\Objects\ObjectsManagementStrategies\Solidness\SolidObjectMask.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\MenuActions\Maps\MapUtils.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\MenuActions\Tiles\TileUtils.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\MenuActions\Boilerplates\ProjectStartup.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\GameMeanMachine.Unity.WindRose.Editor.asmdef" />
+     <None Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\MenuActions\Boilerplates\Templates\ObjectsManagementStrategy.cs.txt" />
+     <None Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\MenuActions\Boilerplates\Templates\ObjectStrategy.cs.txt" />
+     <None Include="\home\luismasuelli\Projects\Unity\unity-windrose\Editor\MenuActions\Boilerplates\Templates\TileStrategy.cs.txt" />
  <Reference Include="UnityEngine">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
@@ -702,6 +707,10 @@
     <ProjectReference Include="AlephVault.Unity.Layout.Runtime.csproj">
       <Project>{078c7043-7970-c350-200a-34f326b446f6}</Project>
       <Name>AlephVault.Unity.Layout.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="AlephVault.Unity.Boilerplates.Editor.csproj">
+      <Project>{92ace289-181e-9ef5-a91d-43e1a5acec63}</Project>
+      <Name>AlephVault.Unity.Boilerplates.Editor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

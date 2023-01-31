@@ -8,6 +8,12 @@
         "com.alephvault.unity.support": "0.0.1"
       }
     },
+    "com.alephvault.unity.boilerplates": {
+      "version": "file:/home/luismasuelli/Projects/Unity/unity-boilerplates",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.alephvault.unity.camjam": {
       "version": "file:../../unity-camjam",
       "depth": 0,
@@ -27,7 +33,7 @@
       "depth": 0,
       "source": "local",
       "dependencies": {
-        "com.alephvault.unity.meetgard.auth": "0.0.2",
+        "com.alephvault.unity.meetgard.auth": "0.0.3",
         "com.alephvault.unity.evmgames": "0.0.1"
       }
     },
@@ -63,6 +69,8 @@
       "dependencies": {
         "com.alephvault.unity.support": "0.0.1",
         "com.alephvault.unity.layout": "0.0.1",
+        "com.alephvault.unity.menuactions": "0.0.1",
+        "com.alephvault.unity.boilerplates": "0.0.1",
         "com.alephvault.unity.binary": "0.0.1"
       }
     },
@@ -71,7 +79,7 @@
       "depth": 0,
       "source": "local",
       "dependencies": {
-        "com.alephvault.unity.meetgard": "0.0.2",
+        "com.alephvault.unity.meetgard": "0.0.3",
         "com.alephvault.unity.support.generic": "0.0.1"
       }
     },
@@ -80,7 +88,7 @@
       "depth": 0,
       "source": "local",
       "dependencies": {
-        "com.alephvault.unity.meetgard": "0.0.2",
+        "com.alephvault.unity.meetgard": "0.0.3",
         "com.alephvault.unity.support.generic": "0.0.1"
       }
     },
@@ -164,8 +172,8 @@
       "depth": 0,
       "source": "local",
       "dependencies": {
-        "com.gamemeanmachine.unity.windrose": "0.0.5",
-        "com.alephvault.unity.meetgard.scopes": "0.0.2"
+        "com.gamemeanmachine.unity.windrose": "0.0.6",
+        "com.alephvault.unity.meetgard.scopes": "0.0.3"
       }
     },
     "com.gamemeanmachine.unity.windrose": {
@@ -175,7 +183,8 @@
       "dependencies": {
         "com.alephvault.unity.support": "0.0.2",
         "com.alephvault.unity.layout": "0.0.1",
-        "com.alephvault.unity.menuactions": "0.0.1"
+        "com.alephvault.unity.menuactions": "0.0.1",
+        "com.alephvault.unity.boilerplates": "0.0.1"
       }
     },
     "com.gamemeanmachine.unity.windrose-backpack": {
@@ -208,7 +217,7 @@
       "depth": 0,
       "source": "local",
       "dependencies": {
-        "com.gamemeanmachine.unity.windrose": "0.0.4"
+        "com.gamemeanmachine.unity.windrose": "0.0.6"
       }
     },
     "com.gamemeanmachine.unity.windrose.cubeworlds": {
@@ -233,7 +242,7 @@
       "depth": 0,
       "source": "local",
       "dependencies": {
-        "com.gamemeanmachine.unity.windrose": "0.0.3"
+        "com.gamemeanmachine.unity.windrose": "0.0.6"
       }
     },
     "com.gamemeanmachine.unity.windrose.refmapchars": {
