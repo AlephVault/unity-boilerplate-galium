@@ -13,11 +13,11 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{12c0c73d-8e04-a987-065c-30e35bc1a74c}</ProjectGuid>
+    <ProjectGuid>{99d017b0-5982-2e83-ee03-d59c29cb8e5c}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <AssemblyName>AlephVault.Unity.Meetgard.Samples</AssemblyName>
+    <AssemblyName>GameMeanMachine.Unity.WindRose.RefMapChars.Editor</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <BaseDirectory>.</BaseDirectory>
@@ -52,21 +52,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\Line.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\ChatProtocolClientSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\ChatClientKeys.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Throttle\SampleThrottledProtocolServerSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\ChatServerKeys.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\ChatProtocolServerSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\Echo.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\Said.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\Nickname.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Throttle\SampleThrottledProtocolClientSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Throttle\SampleThrottledClientControlKeys.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Throttle\SampleThrottledServerControlKeys.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Throttle\SampleThrottledProtocolDefinition.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\Scripts\Chat\ChatProtocolDefinition.cs" />
-     <None Include="\home\luismasuelli\Projects\Unity\unity-meetgard\Samples\AlephVault.Unity.Meetgard.Samples.asmdef" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Editor\DictionaryPropertyDrawer.cs" />
+     <None Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Editor\GameMeanMachine.Unity.WindRose.RefMapChars.Editor.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
@@ -678,17 +665,13 @@
  </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="AlephVault.Unity.Meetgard.Runtime.csproj">
-      <Project>{c105d9dd-5e5f-350e-49a9-6f1fb2996c59}</Project>
-      <Name>AlephVault.Unity.Meetgard.Runtime</Name>
+    <ProjectReference Include="AlephVault.Unity.Support.Generic.Editor.csproj">
+      <Project>{dd95c86f-2e90-a316-eede-f7a6fc363c49}</Project>
+      <Name>AlephVault.Unity.Support.Generic.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="AlephVault.Unity.Binary.Runtime.csproj">
-      <Project>{e97db9fa-e371-1714-36b1-77f47b87e68b}</Project>
-      <Name>AlephVault.Unity.Binary.Runtime</Name>
-    </ProjectReference>
-    <ProjectReference Include="AlephVault.Unity.Support.Runtime.csproj">
-      <Project>{8b2c4eb2-9fae-7037-bddd-bee8dfe65f55}</Project>
-      <Name>AlephVault.Unity.Support.Runtime</Name>
+    <ProjectReference Include="GameMeanMachine.Unity.WindRose.RefMapChars.Runtime.csproj">
+      <Project>{70d8d971-d5ad-ed1a-f736-9b6ba5582bdd}</Project>
+      <Name>GameMeanMachine.Unity.WindRose.RefMapChars.Runtime</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
