@@ -45,6 +45,13 @@ So far this project relies on a set of packages that I could consider, at best, 
  - com.alephvault.unity.evmgames.auth [Clone it - 0.0.1](https://github.com/AlephVault/unity-evmgames-auth/tree/0.0.1).
  - com.alephvault.unity.evmgames.livecache [Clone it - 0.0.1](https://github.com/AlephVault/unity-evmgames-livecache/tree/0.0.1).
 
+You can run the attached scripts to clone the dependencies after cloning this project:
+
+ - Windows: clone-all.sh
+ - Unix-based (bash): clone-all.bat
+ 
+If you have these repositories already cloned for another boilerplate and version, you can just go inside and checkout the proper (remote, typically) tags instead.
+
 Licenses
 --------
 
