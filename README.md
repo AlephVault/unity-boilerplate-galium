@@ -19,7 +19,7 @@ So far this project relies on a set of packages that I could consider, at best, 
  - com.alephvault.unity.menuactions: [Clone it - 0.0.1](https://github.com/AlephVault/unity-menu-actions/tree/0.0.1).
  - com.alephvault.unity.camjam: [Clone it - 0.0.1](https://github.com/AlephVault/unity-camjam/tree/0.0.1).
  - com.alephvault.unity.soundaround: [Clone it - 0.0.1](https://github.com/AlephVault/unity-soundaround/tree/0.0.1).
- - com.alephvault.unity.spriteutils: [Clone it - 0.0.3](https://github.com/AlephVault/unity-spriteutils/tree/0.0.3).
+ - com.alephvault.unity.spriteutils: [Clone it - 0.0.4](https://github.com/AlephVault/unity-spriteutils/tree/0.0.4).
  - com.alephvault.unity.textureutils: [Clone it - 0.0.1](https://github.com/AlephVault/unity-textureutils/tree/0.0.1).
  - com.alephvault.unity.binary: [Clone it - 0.0.2](https://github.com/AlephVault/unity-binary/tree/0.0.2).
  - com.alephvault.unity.meetgard: [Clone it - 0.0.3](https://github.com/AlephVault/unity-meetgard/tree/0.0.3).
@@ -32,10 +32,10 @@ So far this project relies on a set of packages that I could consider, at best, 
  - com.gamemeanmachine.unity.windrose.biomes: [Clone it - 0.0.4](https://gitlab.com/gamemeanmachine/unity-windrose-biomes/-/tree/0.0.4).
  - com.gamemeanmachine.unity.windrose-backpack: [Clone it - 0.0.1](https://gitlab.com/gamemeanmachine/unity-windrose-backpack-plugin/-/tree/0.0.1).
  - com.gamemeanmachine.unity.windrose-gabtab: [Clone it - 0.0.1](https://gitlab.com/gamemeanmachine/unity-windrose-gabtab-plugin/-/tree/0.0.1).
- - com.gamemeanmachine.unity.windrose.spriteutils: [Clone it - 0.0.3](https://gitlab.com/gamemeanmachine/unity-windrose-spriteutils/-/tree/0.0.3).
+ - com.gamemeanmachine.unity.windrose.spriteutils: [Clone it - 0.0.4](https://gitlab.com/gamemeanmachine/unity-windrose-spriteutils/-/tree/0.0.4).
  - com.gamemeanmachine.unity.windrose.neighbourteleports [Clone it - 0.0.3](https://gitlab.com/gamemeanmachine/unity-windrose-neighbourteleports/-/tree/0.0.3).
  - com.gamemeanmachine.unity.windrose.cubeworlds [Clone it - 0.0.1](https://gitlab.com/gamemeanmachine/unity-windrose-cubeworlds/-/tree/0.0.1).
- - com.gamemeanmachine.unity.windrose.refmapchars [Clone it - 0.0.2](https://gitlab.com/gamemeanmachine/unity-windrose-refmapchars/-/tree/0.0.2).
+ - com.gamemeanmachine.unity.windrose.refmapchars [Clone it - 0.0.3](https://gitlab.com/gamemeanmachine/unity-windrose-refmapchars/-/tree/0.0.3).
  - com.gamemeanmachine.unity.windrose.lpcbiomes [Clone it - 0.0.1](https://gitlab.com/gamemeanmachine/unity-windrose-lpcbiomes/-/0.0.1).
  - com.gamemeanmachine.unity.netrose [Clone it - 0.0.3](https://gitlab.com/gamemeanmachine/unity-netrose/-/tree/0.0.3).
  - com.gamemeanmachine.unity.netrose.storage [Clone it - 0.0.1](https://gitlab.com/gamemeanmachine/unity-netrose-storage/-/tree/0.0.1).
