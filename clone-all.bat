@@ -21,7 +21,7 @@ call git clone --branch 0.0.1 git@gitlab.com:gamemeanmachine/unity-windrose-gabt
 call git clone --branch 0.0.4 git@gitlab.com:gamemeanmachine/unity-windrose-spriteutils.git ..\unity-windrose-spriteutils
 call git clone --branch 0.0.3 git@gitlab.com:gamemeanmachine/unity-windrose-neighbourteleports.git ..\unity-windrose-neighbourteleports
 call git clone --branch 0.0.1 git@gitlab.com:gamemeanmachine/unity-windrose-cubeworlds.git ..\unity-windrose-cubeworlds
-call git clone --branch 0.0.3 git@gitlab.com:gamemeanmachine/unity-windrose-refmapchars.git ..\unity-windrose-refmapchars
+call git clone --branch 0.0.4 git@gitlab.com:gamemeanmachine/unity-windrose-refmapchars.git ..\unity-windrose-refmapchars
 call git clone --branch 0.0.1 git@gitlab.com:gamemeanmachine/unity-windrose-lpcbiomes.git ..\unity-windrose-lpcbiomes
 call git clone --branch 0.0.1 git@gitlab.com:gamemeanmachine/unity-netrose.git ..\unity-netrose
 call git clone --branch 0.0.1 git@gitlab.com:gamemeanmachine/unity-netrose-storage.git ..\unity-netrose-storage
