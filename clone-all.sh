@@ -30,5 +30,5 @@ git clone --branch 0.0.1 git@gitlab.com:gamemeanmachine/unity-netrose-refmapchar
 git clone --branch 0.0.1 git@github.com:AlephVault/unity-ipfs.git ../unity-ipfs
 git clone --branch 0.0.1 git@github.com:AlephVault/unity-evmgames.git ../unity-evmgames
 git clone --branch 0.0.1 git@github.com:AlephVault/unity-evmgames-auth.git ../unity-evmgames-auth
-git clone --branch 0.0.1 git@github.com:AlephVault/unity-evmgames-livecache.git ../unity-evmgames-livecache
+git clone --branch 0.0.2 git@github.com:AlephVault/unity-evmgames-livecache.git ../unity-evmgames-livecache
 
