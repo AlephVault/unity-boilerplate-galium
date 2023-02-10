@@ -39,7 +39,7 @@ So far this project relies on a set of packages that I could consider, at best, 
  - com.gamemeanmachine.unity.windrose.lpcbiomes [Clone it - 0.0.1](https://gitlab.com/gamemeanmachine/unity-windrose-lpcbiomes/-/0.0.1).
  - com.gamemeanmachine.unity.netrose [Clone it - 0.0.3](https://gitlab.com/gamemeanmachine/unity-netrose/-/tree/0.0.3).
  - com.gamemeanmachine.unity.netrose.storage [Clone it - 0.0.1](https://gitlab.com/gamemeanmachine/unity-netrose-storage/-/tree/0.0.1).
- - com.gamemeanmachine.unity.netrose.refmapchars [Clone it - 0.0.1](https://gitlab.com/gamemeanmachine/unity-netrose-refmapchars/-/tree/0.0.1).
+ - com.gamemeanmachine.unity.netrose.refmapchars [Clone it - 0.0.2](https://gitlab.com/gamemeanmachine/unity-netrose-refmapchars/-/tree/0.0.2).
  - com.alephvault.unity.ipfs [Clone it - 0.0.1](https://github.com/AlephVault/unity-ipfs/tree/0.0.1).
  - com.alephvault.unity.evmgames [Clone it - 0.0.1](https://github.com/AlephVault/unity-evmgames/tree/0.0.1).
  - com.alephvault.unity.evmgames.auth [Clone it - 0.0.1](https://github.com/AlephVault/unity-evmgames-auth/tree/0.0.1).
