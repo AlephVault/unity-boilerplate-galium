@@ -9,7 +9,7 @@ git clone --branch 0.0.1 git@github.com:AlephVault/unity-soundaround.git ../unit
 git clone --branch 0.0.4 git@github.com:AlephVault/unity-spriteutils.git ../unity-spriteutils
 git clone --branch 0.0.1 git@github.com:AlephVault/unity-textureutils.git ../unity-textureutils
 git clone --branch 0.0.2 git@github.com:AlephVault/unity-binary.git ../unity-binary
-git clone --branch 0.0.3 git@github.com:AlephVault/unity-meetgard.git ../unity-meetgard
+git clone --branch 0.0.4 git@github.com:AlephVault/unity-meetgard.git ../unity-meetgard
 git clone --branch 0.0.3 git@github.com:AlephVault/unity-meetgard-auth.git ../unity-meetgard-auth
 git clone --branch 0.0.3 git@github.com:AlephVault/unity-meetgard-scopes.git ../unity-meetgard-scopes
 git clone --branch 0.0.2 git@github.com:AlephVault/unity-remotestorage.git ../unity-remotestorage
