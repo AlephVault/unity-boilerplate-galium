@@ -21,6 +21,8 @@
     "com.gamemeanmachine.unity.backpack": "file:../../unity-backpack",
     "com.gamemeanmachine.unity.gabtab": "file:../../unity-gabtab",
     "com.gamemeanmachine.unity.netrose": "file:../../unity-netrose",
+    "com.gamemeanmachine.unity.netrose.refmapchars": "file:/home/luismasuelli/Projects/Unity/unity-netrose-refmapchars",
+    "com.gamemeanmachine.unity.netrose.storage": "file:/home/luismasuelli/Projects/Unity/unity-netrose-storage",
     "com.gamemeanmachine.unity.windrose": "file:../../unity-windrose",
     "com.gamemeanmachine.unity.windrose-backpack": "file:../../unity-windrose-backpack-plugin",
     "com.gamemeanmachine.unity.windrose-gabtab": "file:../../unity-windrose-gabtab-plugin",
