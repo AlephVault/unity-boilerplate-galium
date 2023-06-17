@@ -57,6 +57,7 @@
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-spriteutils\Runtime\Types\MappedSpriteGridSelection.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-spriteutils\Runtime\Types\SpriteGrid.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-spriteutils\Runtime\Types\SpriteGridSelection.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-spriteutils\Runtime\Types\Size2D.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-spriteutils\Runtime\Types\IdentifiedSpriteGrid.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-spriteutils\Runtime\AlephVault.Unity.SpriteUtils.Runtime.asmdef" />
  <Reference Include="UnityEngine">
@@ -662,11 +663,11 @@
  <Reference Include="mscorlib">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/mscorlib.dll</HintPath>
  </Reference>
- <Reference Include="UnityEditor.UI">
- <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.UI">
+ <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
