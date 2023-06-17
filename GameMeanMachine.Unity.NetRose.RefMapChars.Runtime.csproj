@@ -13,11 +13,11 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{47c91177-6039-99db-5de8-73d59b12ea1c}</ProjectGuid>
+    <ProjectGuid>{47013b86-1ca7-1a7c-1c58-53e4cc6ab868}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <AssemblyName>GameMeanMachine.Unity.NetRose.Runtime</AssemblyName>
+    <AssemblyName>GameMeanMachine.Unity.NetRose.RefMapChars.Runtime</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <BaseDirectory>.</BaseDirectory>
@@ -52,29 +52,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Runtime\Authoring\Behaviours\Server\NetRoseModelServerSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Runtime\Types\Models\Position.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Runtime\Types\Models\IServerOwned.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Runtime\Authoring\Behaviours\Client\NetRoseModelClientSide_queue.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Runtime\Authoring\Behaviours\Server\NetRoseProtocolServerSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Runtime\Types\Models\Attachment.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Runtime\Authoring\Behaviours\Client\INetRoseModelClientSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Runtime\Authoring\Behaviours\Server\OwnedNetRoseModelServerSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Runtime\Authoring\Behaviours\Server\PrincipalObjectsNetRoseProtocolServerSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Runtime\Authoring\Behaviours\Client\NetRoseProtocolClientSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Runtime\Types\Models\MapObjectModel.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Runtime\Authoring\Behaviours\Client\OwnedNetRoseModelClientSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Runtime\Authoring\Behaviours\Server\NetRoseScopeServerSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Runtime\Types\Models\Status.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Runtime\Types\Protocols\Messages\Common\ObjectMessage.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Runtime\Authoring\Behaviours\Server\INetRoseModelServerSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Runtime\Types\Protocols\Messages\Common\MovementStart.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Runtime\Authoring\Behaviours\Client\NetRoseScopeClientSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Runtime\Types\Models\IClientOwned.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Runtime\Authoring\Behaviours\Client\NetRoseModelClientSide.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Runtime\Types\Models\OwnedModel.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Runtime\Types\Protocols\NetRoseProtocolDefinition.cs" />
-     <None Include="\home\luismasuelli\Projects\Unity\unity-netrose\Runtime\GameMeanMachine.Unity.NetRose.Runtime.asmdef" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose-refmapchars\Runtime\Types\Models\RefMapItemPair.cs" />
+     <None Include="\home\luismasuelli\Projects\Unity\unity-netrose-refmapchars\Runtime\GameMeanMachine.Unity.NetRose.RefMapChars.Runtime.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
@@ -686,29 +665,13 @@
  </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="AlephVault.Unity.Support.Runtime.csproj">
-      <Project>{8b2c4eb2-9fae-7037-bddd-bee8dfe65f55}</Project>
-      <Name>AlephVault.Unity.Support.Runtime</Name>
-    </ProjectReference>
-    <ProjectReference Include="AlephVault.Unity.Support.Generic.Runtime.csproj">
-      <Project>{a2dbfef4-26cd-0644-f0c2-b04ade821ac3}</Project>
-      <Name>AlephVault.Unity.Support.Generic.Runtime</Name>
-    </ProjectReference>
     <ProjectReference Include="AlephVault.Unity.Binary.Runtime.csproj">
       <Project>{e97db9fa-e371-1714-36b1-77f47b87e68b}</Project>
       <Name>AlephVault.Unity.Binary.Runtime</Name>
     </ProjectReference>
-    <ProjectReference Include="AlephVault.Unity.Meetgard.Runtime.csproj">
-      <Project>{c105d9dd-5e5f-350e-49a9-6f1fb2996c59}</Project>
-      <Name>AlephVault.Unity.Meetgard.Runtime</Name>
-    </ProjectReference>
-    <ProjectReference Include="AlephVault.Unity.Meetgard.Scopes.Runtime.csproj">
-      <Project>{fdddde09-1db6-e936-5099-ba820d5ea2df}</Project>
-      <Name>AlephVault.Unity.Meetgard.Scopes.Runtime</Name>
-    </ProjectReference>
-    <ProjectReference Include="GameMeanMachine.Unity.WindRose.Runtime.csproj">
-      <Project>{f65c68fa-8c14-46d0-5ca6-9f1ac658a089}</Project>
-      <Name>GameMeanMachine.Unity.WindRose.Runtime</Name>
+    <ProjectReference Include="GameMeanMachine.Unity.WindRose.RefMapChars.Runtime.csproj">
+      <Project>{70d8d971-d5ad-ed1a-f736-9b6ba5582bdd}</Project>
+      <Name>GameMeanMachine.Unity.WindRose.RefMapChars.Runtime</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

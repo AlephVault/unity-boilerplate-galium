@@ -670,11 +670,11 @@
  <Reference Include="mscorlib">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/mscorlib.dll</HintPath>
  </Reference>
- <Reference Include="UnityEditor.UI">
- <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.UI">
+ <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -689,6 +689,10 @@
     <ProjectReference Include="AlephVault.Unity.Binary.Runtime.csproj">
       <Project>{e97db9fa-e371-1714-36b1-77f47b87e68b}</Project>
       <Name>AlephVault.Unity.Binary.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="AlephVault.Unity.MenuActions.Editor.csproj">
+      <Project>{794ae9a4-edc5-1e1e-a242-0461afef3fb3}</Project>
+      <Name>AlephVault.Unity.MenuActions.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="AlephVault.Unity.Meetgard.Runtime.csproj">
       <Project>{c105d9dd-5e5f-350e-49a9-6f1fb2996c59}</Project>
@@ -705,6 +709,10 @@
     <ProjectReference Include="GameMeanMachine.Unity.NetRose.Runtime.csproj">
       <Project>{47c91177-6039-99db-5de8-73d59b12ea1c}</Project>
       <Name>GameMeanMachine.Unity.NetRose.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="GameMeanMachine.Unity.NetRose.Editor.csproj">
+      <Project>{be4abc1b-1649-8a0b-e264-f61c0300005b}</Project>
+      <Name>GameMeanMachine.Unity.NetRose.Editor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
