@@ -53,7 +53,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\ScriptableObjects\RefMapBody.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\ScriptableObjects\RefMapItemType.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\ScriptableObjects\RefMapAddOnType.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\Behaviours\RefMapStandardStatueApplier.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\SkilledHandItemTrait.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\DualTrait.cs" />
@@ -67,7 +67,6 @@
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\Behaviours\RefMapStandardCharacterApplier.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\IRefMapSimpleComposite.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\IApplier.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\ScriptableObjects\RefMapExtra.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\Simple\ClothTrait.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\HatTrait.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\Standard\ShirtTrait.cs" />
@@ -93,8 +92,9 @@
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\ScriptableObjects\RefMapSex.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\IRefMapStandardComposite.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Selectors\RefMapCharacterSelector.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\ScriptableObjects\RefMapItem.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\ScriptableObjects\RefMapAddOn.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\SimpleTrait.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\ScriptableObjects\RefMapItemType.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\IRefMapBaseComposite.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Authoring\Behaviours\RefMapSimpleCharacterApplier.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose-refmapchars\Runtime\Types\Traits\Standard\CloakTrait.cs" />
@@ -702,11 +702,11 @@
  <Reference Include="mscorlib">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/mscorlib.dll</HintPath>
  </Reference>
- <Reference Include="UnityEditor.UI">
- <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.UI">
+ <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

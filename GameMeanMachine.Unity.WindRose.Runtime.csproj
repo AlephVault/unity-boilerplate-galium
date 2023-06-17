@@ -52,9 +52,11 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Vendor\RBush\RBush.Utilities.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\Entities\Objects\Teleport\TaggedTeleporter.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\ScriptableObjects\Animations\SpriteRose.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\ScriptableObjects\Tiles\BundledTile.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\World\Layers\Darkness\DarknessLayer.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\World\Layers\Objects\ObjectsManagementStrategies\Solidness\SolidnessObjectsManagementStrategy.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\World\Layers\Objects\ObjectsManagementStrategies\Solidness\SolidnessStatus.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\Entities\Objects\Strategies\ObjectStrategy.cs" />
@@ -66,6 +68,7 @@
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\Entities\Objects\Strategies\Solidness\SolidnessObjectStrategy.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\ScriptableObjects\Animations\AnimationRose.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\ScriptableObjects\Animations\Animation.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Vendor\RBush\RBush.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\Entities\Visuals\MultiState.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\World\Layers\Floor\FloorLayer.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\World\Layers\MapLayer.cs" />
@@ -103,18 +106,24 @@
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\Entities\Visuals\MultiRoseSprited.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Types\Rose.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\Entities\Objects\TriggerZone.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Vendor\RBush\ISpatialIndex.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\Entities\Visuals\StateBundles\AnimationRoseBundle.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\World\Layers\Visuals\VisualsLayer.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\Entities\Objects\TriggerLive.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\Entities\Objects\Teleport\SimpleTeleportTarget.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\Entities\Visuals\MultiAnimated.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Vendor\RBush\RBush.Knn.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Vendor\RBush\Envelope.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\Entities\Visuals\StateBundles\Moving\MovingAnimationRoseBundle.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Vendor\RBush\ISpatialData.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\Entities\Visuals\StateBundles\Moving\MovingAnimationBundle.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\Entities\Visuals\StateBundles\SpriteRoseBundle.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\World\Layers\Objects\ObjectsManagementStrategies\Simple\SimpleObjectsManagementStrategy.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Vendor\RBush\RBush.Node.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\World\Layers\Objects\ObjectsManagementStrategies\Base\BlockMode.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\Entities\Visuals\MultiRoseAnimated.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Types\Bitmask.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\Entities\Visuals\LightMask.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\Entities\Objects\CommandExchange\CommandReceiver.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\World\Layers\Objects\ObjectsLayer.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\Entities\Visuals\StateBundles\StateBundle.cs" />
@@ -123,6 +132,7 @@
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\Entities\Visuals\StateBundles\AnimationBundle.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\Entities\Objects\TriggerPlatform.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\Entities\Objects\CommandExchange\Talk\TalkReceiver.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Vendor\RBush\ISpatialDatabase.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\ScriptableObjects\Tiles\Strategies\Base\LayoutTileStrategy.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\ScriptableObjects\Tiles\Strategies\TileStrategy.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-windrose\Runtime\Authoring\Behaviours\Floors\Floor.cs" />
@@ -730,11 +740,11 @@
  <Reference Include="mscorlib">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/mscorlib.dll</HintPath>
  </Reference>
- <Reference Include="UnityEditor.UI">
- <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.UI">
+ <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

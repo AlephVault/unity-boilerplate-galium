@@ -54,15 +54,22 @@
   <ItemGroup>
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Editor\MenuActions\Boilerplates\CreatePrincipalObjectsProtocol.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Editor\MenuActions\Boilerplates\CreateNetworkedObject.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Editor\MenuActions\Boilerplates\CreateNetworkedModel.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Editor\MenuActions\Scopes\ConvertToNetworkedScopes.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Editor\MenuActions\Boilerplates\ProjectStartup.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Editor\MenuActions\Boilerplates\CreateMainNetRoseGameProtocol.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-netrose\Editor\MenuActions\Objects\ConvertToNetworkedObjects.cs" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-netrose\Editor\MenuActions\Boilerplates\Templates\PrincipalObjectsNetRoseProtocolServerSide.cs.txt" />
+     <None Include="\home\luismasuelli\Projects\Unity\unity-netrose\Editor\MenuActions\Boilerplates\Templates\AimType.cs.txt" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-netrose\Editor\MenuActions\Boilerplates\Templates\OwnedNetRoseModelClientSide.cs.txt" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-netrose\Editor\MenuActions\Boilerplates\Templates\NetRoseModelServerSide.cs.txt" />
+     <None Include="\home\luismasuelli\Projects\Unity\unity-netrose\Editor\MenuActions\Boilerplates\Templates\SerializableType.cs.txt" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-netrose\Editor\MenuActions\Boilerplates\Templates\NetRoseModelClientSide.cs.txt" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-netrose\Editor\MenuActions\Boilerplates\Templates\OwnedNetRoseModelServerSide.cs.txt" />
+     <None Include="\home\luismasuelli\Projects\Unity\unity-netrose\Editor\MenuActions\Boilerplates\Templates\MainGameProtocolDefinition.cs.txt" />
      <None Include="\home\luismasuelli\Projects\Unity\unity-netrose\Editor\GameMeanMachine.Unity.NetRose.Editor.asmdef" />
+     <None Include="\home\luismasuelli\Projects\Unity\unity-netrose\Editor\MenuActions\Boilerplates\Templates\MainGameProtocolClientSide.cs.txt" />
+     <None Include="\home\luismasuelli\Projects\Unity\unity-netrose\Editor\MenuActions\Boilerplates\Templates\MainGameProtocolServerSide.cs.txt" />
  <Reference Include="UnityEngine">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
@@ -675,11 +682,11 @@
  <Reference Include="netstandard">
  <HintPath>/home/luismasuelli/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/netstandard.dll</HintPath>
  </Reference>
- <Reference Include="UnityEditor.UI">
- <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.UI">
+ <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.TestRunner">
  <HintPath>/home/luismasuelli/Projects/Unity/unity-boilerplate-evm-netrose/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
