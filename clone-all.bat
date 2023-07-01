@@ -3,7 +3,6 @@ call git clone --branch 0.0.1 git@github.com:AlephVault/unity-support-generic.gi
 call git clone --branch 0.0.1 git@github.com:AlephVault/unity-boilerplates.git ..\unity-boilerplates
 call git clone --branch 0.0.1 git@github.com:AlephVault/unity-layout.git ..\unity-layout
 call git clone --branch 0.0.1 git@github.com:AlephVault/unity-menu-actions.git ..\unity-menu-actions
-call git clone --branch 0.0.1 git@github.com:AlephVault/unity-camjam.git ..\unity-camjam
 call git clone --branch 0.0.1 git@github.com:AlephVault/unity-soundaround.git ..\unity-soundaround
 call git clone --branch 0.0.4 git@github.com:AlephVault/unity-spriteutils.git ..\unity-spriteutils
 call git clone --branch 0.0.1 git@github.com:AlephVault/unity-textureutils.git ..\unity-textureutils

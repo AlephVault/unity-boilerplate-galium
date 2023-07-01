@@ -14,12 +14,6 @@
       "source": "local",
       "dependencies": {}
     },
-    "com.alephvault.unity.camjam": {
-      "version": "file:../../unity-camjam",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {}
-    },
     "com.alephvault.unity.evmgames": {
       "version": "file:../../unity-evmgames",
       "depth": 0,
