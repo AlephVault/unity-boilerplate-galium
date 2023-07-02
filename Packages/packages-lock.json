@@ -19,7 +19,7 @@
       }
     },
     "com.alephvault.unity.boilerplates": {
-      "version": "file:/home/luismasuelli/Projects/Unity/unity-boilerplates",
+      "version": "file:../../unity-boilerplates",
       "depth": 0,
       "source": "local",
       "dependencies": {}
@@ -126,7 +126,7 @@
       }
     },
     "com.alephvault.unity.netrose.refmapchars": {
-      "version": "file:/home/luismasuelli/Projects/Unity/unity-netrose-refmapchars",
+      "version": "file:../../unity-netrose-refmapchars",
       "depth": 0,
       "source": "local",
       "dependencies": {
@@ -136,7 +136,7 @@
       }
     },
     "com.alephvault.unity.netrose.storage": {
-      "version": "file:/home/luismasuelli/Projects/Unity/unity-netrose-storage",
+      "version": "file:../../unity-netrose-storage",
       "depth": 0,
       "source": "local",
       "dependencies": {
@@ -244,7 +244,7 @@
       }
     },
     "com.alephvault.unity.windrose.lpcbiomes": {
-      "version": "file:/home/luismasuelli/Projects/Unity/unity-windrose-lpcbiomes",
+      "version": "file:../../unity-windrose-lpcbiomes",
       "depth": 0,
       "source": "local",
       "dependencies": {
