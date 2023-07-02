@@ -517,8 +517,8 @@
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Runtime\Vendor\Nethereum\Nethereum.Quorum\RPC\Permission\QuorumPermissionConnectionAllowed.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Runtime\Vendor\WalletConnectSharp.NEthereum\Client\FallbackProvider.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Runtime\Vendor\Nethereum\Nethereum.RPC\Shh\KeyPair\ShhGetPublicKey.cs" />
-     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Runtime\Vendor\Nethereum\Nethereum.Geth\RPC\GethDebug\DebugDumpBlock.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Runtime\Vendor\Nethereum\Nethereum.Contracts\Standards\ERC721\ERC721ContractService.cs" />
+     <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Runtime\Vendor\Nethereum\Nethereum.Geth\RPC\GethDebug\DebugDumpBlock.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Runtime\Vendor\WalletConnectSharp\WalletConnectSharp.Core\Models\Ethereum\Types\EvmTypedData.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Runtime\Vendor\Nethereum\Nethereum.ABI\ByteCodeConstants.cs" />
      <Compile Include="\home\luismasuelli\Projects\Unity\unity-evmgames\Runtime\Vendor\Nethereum\Nethereum.RPC\Eth\Transactions\EthGetTransactionByHash.cs" />
