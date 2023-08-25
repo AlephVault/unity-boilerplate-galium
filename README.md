@@ -12,7 +12,7 @@ Dependencies versioning and status
 
 So far this project relies on a set of packages that I could consider, at best, in beta status. These packages are not officially released and they are tagged 0.0.1 or alike (mostly in experimental status). The referenced packages must be cloned individually besides this boilerplate (i.e. as a sibling directory). They are:
 
- - com.alephvault.unity.support: [Clone it - 0.0.2](https://github.com/AlephVault/unity-support/tree/0.0.2).
+ - com.alephvault.unity.support: [Clone it - 0.0.3](https://github.com/AlephVault/unity-support/tree/0.0.3).
  - com.alephvault.unity.support.generic: [Clone it - 0.0.1](https://github.com/AlephVault/unity-support-generic/tree/0.0.1).
  - com.alephvault.unity.boilerplates: [Clone it - 0.0.1](https://github.com/AlephVault/unity-boilerplates/tree/0.0.1).
  - com.alephvault.unity.layout: [Clone it - 0.0.1](https://github.com/AlephVault/unity-layout/tree/0.0.1).
@@ -21,28 +21,28 @@ So far this project relies on a set of packages that I could consider, at best, 
  - com.alephvault.unity.spriteutils: [Clone it - 0.0.4](https://github.com/AlephVault/unity-spriteutils/tree/0.0.4).
  - com.alephvault.unity.textureutils: [Clone it - 0.0.1](https://github.com/AlephVault/unity-textureutils/tree/0.0.1).
  - com.alephvault.unity.binary: [Clone it - 0.0.2](https://github.com/AlephVault/unity-binary/tree/0.0.2).
- - com.alephvault.unity.meetgard: [Clone it - 0.0.4](https://github.com/AlephVault/unity-meetgard/tree/0.0.4).
- - com.alephvault.unity.meetgard.auth: [Clone it - 0.0.3](https://github.com/AlephVault/unity-meetgard-auth/tree/0.0.3).
+ - com.alephvault.unity.meetgard: [Clone it - 0.0.5](https://github.com/AlephVault/unity-meetgard/tree/0.0.5).
+ - com.alephvault.unity.meetgard.auth: [Clone it - 0.0.4](https://github.com/AlephVault/unity-meetgard-auth/tree/0.0.4).
  - com.alephvault.unity.meetgard.scopes: [Clone it - 0.0.3](https://github.com/AlephVault/unity-meetgard-scopes/tree/0.0.3).
  - com.alephvault.unity.remotestorage: [Clone it - 0.0.2](https://github.com/AlephVault/unity-remotestorage/tree/0.0.2).
- - com.alephvault.unity.backpack: [Clone it - 0.0.1](https://gitlab.com/AlephVault/unity-backpack/-/tree/0.0.1).
- - com.alephvault.unity.gabtab: [Clone it - 0.0.1](https://gitlab.com/AlephVault/unity-gabtab/-/tree/0.0.1).
- - com.alephvault.unity.windrose: [Clone it - 0.0.6](https://gitlab.com/AlephVault/unity-windrose/-/tree/0.0.6).
- - com.alephvault.unity.windrose.biomes: [Clone it - 0.0.4](https://gitlab.com/AlephVault/unity-windrose-biomes/-/tree/0.0.4).
- - com.alephvault.unity.windrose-backpack: [Clone it - 0.0.1](https://gitlab.com/AlephVault/unity-windrose-backpack-plugin/-/tree/0.0.1).
- - com.alephvault.unity.windrose-gabtab: [Clone it - 0.0.1](https://gitlab.com/AlephVault/unity-windrose-gabtab-plugin/-/tree/0.0.1).
- - com.alephvault.unity.windrose.spriteutils: [Clone it - 0.0.4](https://gitlab.com/AlephVault/unity-windrose-spriteutils/-/tree/0.0.4).
- - com.alephvault.unity.windrose.neighbourteleports [Clone it - 0.0.3](https://gitlab.com/AlephVault/unity-windrose-neighbourteleports/-/tree/0.0.3).
- - com.alephvault.unity.windrose.cubeworlds [Clone it - 0.0.1](https://gitlab.com/AlephVault/unity-windrose-cubeworlds/-/tree/0.0.1).
- - com.alephvault.unity.windrose.refmapchars [Clone it - 0.0.4](https://gitlab.com/AlephVault/unity-windrose-refmapchars/-/tree/0.0.4).
- - com.alephvault.unity.windrose.lpcbiomes [Clone it - 0.0.1](https://gitlab.com/AlephVault/unity-windrose-lpcbiomes/-/0.0.1).
- - com.alephvault.unity.netrose [Clone it - 0.0.3](https://gitlab.com/AlephVault/unity-netrose/-/tree/0.0.3).
- - com.alephvault.unity.netrose.storage [Clone it - 0.0.1](https://gitlab.com/AlephVault/unity-netrose-storage/-/tree/0.0.1).
- - com.alephvault.unity.netrose.refmapchars [Clone it - 0.0.2](https://gitlab.com/AlephVault/unity-netrose-refmapchars/-/tree/0.0.2).
+ - com.alephvault.unity.backpack: [Clone it - 0.0.1](https://github.com/AlephVault/unity-backpack/tree/0.0.1).
+ - com.alephvault.unity.gabtab: [Clone it - 0.0.1](https://github.com/AlephVault/unity-gabtab/tree/0.0.1).
+ - com.alephvault.unity.windrose: [Clone it - 0.0.7](https://github.com/AlephVault/unity-windrose/tree/0.0.7).
+ - com.alephvault.unity.windrose.biomes: [Clone it - 0.0.4](https://github.com/AlephVault/unity-windrose-biomes/tree/0.0.4).
+ - com.alephvault.unity.windrose-backpack: [Clone it - 0.0.1](https://github.com/AlephVault/unity-windrose-backpack-plugin/tree/0.0.1).
+ - com.alephvault.unity.windrose-gabtab: [Clone it - 0.0.1](https://github.com/AlephVault/unity-windrose-gabtab-plugin/tree/0.0.1).
+ - com.alephvault.unity.windrose.spriteutils: [Clone it - 0.0.4](https://github.com/AlephVault/unity-windrose-spriteutils/tree/0.0.4).
+ - com.alephvault.unity.windrose.neighbourteleports [Clone it - 0.0.3](https://github.com/AlephVault/unity-windrose-neighbourteleports/tree/0.0.3).
+ - com.alephvault.unity.windrose.cubeworlds [Clone it - 0.0.1](https://github.com/AlephVault/unity-windrose-cubeworlds/tree/0.0.1).
+ - com.alephvault.unity.windrose.refmapchars [Clone it - 0.0.4](https://github.com/AlephVault/unity-windrose-refmapchars/tree/0.0.4).
+ - com.alephvault.unity.windrose.lpcbiomes [Clone it - 0.0.1](https://github.com/AlephVault/unity-windrose-lpcbiomes/0.0.1).
+ - com.alephvault.unity.netrose [Clone it - 0.0.7](https://github.com/AlephVault/unity-netrose/tree/0.0.7).
+ - com.alephvault.unity.netrose.storage [Clone it - 0.0.2](https://github.com/AlephVault/unity-netrose-storage/tree/0.0.2).
+ - com.alephvault.unity.netrose.refmapchars [Clone it - 0.0.2](https://github.com/AlephVault/unity-netrose-refmapchars/tree/0.0.2).
  - com.alephvault.unity.ipfs [Clone it - 0.0.1](https://github.com/AlephVault/unity-ipfs/tree/0.0.1).
- - com.alephvault.unity.evmgames [Clone it - 0.0.1](https://github.com/AlephVault/unity-evmgames/tree/0.0.1).
- - com.alephvault.unity.evmgames.auth [Clone it - 0.0.1](https://github.com/AlephVault/unity-evmgames-auth/tree/0.0.1).
- - com.alephvault.unity.evmgames.livecache [Clone it - 0.0.1](https://github.com/AlephVault/unity-evmgames-livecache/tree/0.0.1).
+ - com.alephvault.unity.evmgames [Clone it - 0.0.2](https://github.com/AlephVault/unity-evmgames/tree/0.0.2).
+ - com.alephvault.unity.evmgames.auth [Clone it - 0.0.3](https://github.com/AlephVault/unity-evmgames-auth/tree/0.0.3).
+ - com.alephvault.unity.evmgames.livecache [Clone it - 0.0.2](https://github.com/AlephVault/unity-evmgames-livecache/tree/0.0.2).
 
 You can run the attached scripts to clone the dependencies after cloning this project:
 
