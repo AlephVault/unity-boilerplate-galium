@@ -27,8 +27,10 @@ git clone --branch 0.0.7 git@github.com:AlephVault/unity-netrose.git ../unity-ne
 git clone --branch 0.0.2 git@github.com:AlephVault/unity-netrose-storage.git ../unity-netrose-storage
 git clone --branch 0.0.2 git@github.com:AlephVault/unity-netrose-refmapchars.git ../unity-netrose-refmapchars
 git clone --branch 0.0.1 git@github.com:AlephVault/unity-ipfs.git ../unity-ipfs
+git clone --branch 0.0.1 git@github.com:AlephVault/unity-deeplinks.git ../unity-deeplinks
 git clone --branch 0.0.2 git@github.com:AlephVault/unity-evmgames.git ../unity-evmgames
 git clone --branch 0.0.3 git@github.com:AlephVault/unity-evmgames-auth.git ../unity-evmgames-auth
 git clone --branch 0.0.2 git@github.com:AlephVault/unity-evmgames-livecache.git ../unity-evmgames-livecache
 git clone --branch 0.0.1 git@github.com:AlephVault/unity-evmgames-localstorage.git ../unity-evmgames-localstorage
+git clone --branch 0.0.1 git@github.com:AlephVault/unity-evmgames-deeplinks.git ../unity-evmgames-deeplinks
 
