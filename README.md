@@ -67,6 +67,6 @@ Plugins
 
 In order to use this boilerplate, as described in the documentation for com.alephvault.unity.evmgames, 6 compiled DLL files are needed in the `Plugins/` directory.
 
-These files can be found as part of a compressed file available in this boilerplate: `evmgames-plugins.zip`. That file contained the required DLL files, which must be placed directly into the `Plugins/` directory.  
+These files can be found as part of a compressed file available in this boilerplate: `evmgames-plugins.zip`. That file contained the required DLL files, which must be placed directly into the `Plugins/` directory.
 They're tested in .NET Framework 4.6.1.
 
