@@ -32,20 +32,20 @@ So far this project relies on a set of packages that I could consider, at best, 
  - com.alephvault.unity.windrose-backpack: [Clone it - 0.0.1](https://github.com/AlephVault/unity-windrose-backpack-plugin/tree/0.0.1).
  - com.alephvault.unity.windrose-gabtab: [Clone it - 0.0.1](https://github.com/AlephVault/unity-windrose-gabtab-plugin/tree/0.0.1).
  - com.alephvault.unity.windrose.spriteutils: [Clone it - 0.0.4](https://github.com/AlephVault/unity-windrose-spriteutils/tree/0.0.4).
- - com.alephvault.unity.windrose.neighbourteleports [Clone it - 0.0.3](https://github.com/AlephVault/unity-windrose-neighbourteleports/tree/0.0.3).
- - com.alephvault.unity.windrose.cubeworlds [Clone it - 0.0.1](https://github.com/AlephVault/unity-windrose-cubeworlds/tree/0.0.1).
- - com.alephvault.unity.windrose.refmapchars [Clone it - 0.0.4](https://github.com/AlephVault/unity-windrose-refmapchars/tree/0.0.4).
- - com.alephvault.unity.windrose.lpcbiomes [Clone it - 0.0.1](https://github.com/AlephVault/unity-windrose-lpcbiomes/0.0.1).
- - com.alephvault.unity.netrose [Clone it - 0.0.7](https://github.com/AlephVault/unity-netrose/tree/0.0.7).
- - com.alephvault.unity.netrose.storage [Clone it - 0.0.2](https://github.com/AlephVault/unity-netrose-storage/tree/0.0.2).
- - com.alephvault.unity.netrose.refmapchars [Clone it - 0.0.2](https://github.com/AlephVault/unity-netrose-refmapchars/tree/0.0.2).
- - com.alephvault.unity.ipfs [Clone it - 0.0.1](https://github.com/AlephVault/unity-ipfs/tree/0.0.1).
- - com.alephvault.unity.deeplinks [Clone it - 0.0.1](git@github.com:AlephVault/unity-deeplinks.git/tree/0.0.1).
- - com.alephvault.unity.evmgames [Clone it - 0.0.2](https://github.com/AlephVault/unity-evmgames/tree/0.0.2).
- - com.alephvault.unity.evmgames.auth [Clone it - 0.0.3](https://github.com/AlephVault/unity-evmgames-auth/tree/0.0.3).
- - com.alephvault.unity.evmgames.livecache [Clone it - 0.0.2](https://github.com/AlephVault/unity-evmgames-livecache/tree/0.0.2).
- - com.alephvault.unity.evmgames.localstorage [Clone it - 0.0.1](https://github.com/AlephVault/unity-evmgames-localstorage/tree/0.0.1).
- - com.alephvault.unity.evmgames.deeplinks [Clone it - 0.0.1](git@github.com:AlephVault/unity-evmgames-deeplinks.git/tree/0.0.1).
+ - com.alephvault.unity.windrose.neighbourteleports: [Clone it - 0.0.3](https://github.com/AlephVault/unity-windrose-neighbourteleports/tree/0.0.3).
+ - com.alephvault.unity.windrose.cubeworlds: [Clone it - 0.0.1](https://github.com/AlephVault/unity-windrose-cubeworlds/tree/0.0.1).
+ - com.alephvault.unity.windrose.refmapchars: [Clone it - 0.0.4](https://github.com/AlephVault/unity-windrose-refmapchars/tree/0.0.4).
+ - com.alephvault.unity.windrose.lpcbiomes: [Clone it - 0.0.1](https://github.com/AlephVault/unity-windrose-lpcbiomes/0.0.1).
+ - com.alephvault.unity.netrose: [Clone it - 0.0.7](https://github.com/AlephVault/unity-netrose/tree/0.0.7).
+ - com.alephvault.unity.netrose.storage: [Clone it - 0.0.2](https://github.com/AlephVault/unity-netrose-storage/tree/0.0.2).
+ - com.alephvault.unity.netrose.refmapchars: [Clone it - 0.0.2](https://github.com/AlephVault/unity-netrose-refmapchars/tree/0.0.2).
+ - com.alephvault.unity.ipfs: [Clone it - 0.0.1](https://github.com/AlephVault/unity-ipfs/tree/0.0.1).
+ - com.alephvault.unity.deeplinks: [Clone it - 0.0.1](git@github.com:AlephVault/unity-deeplinks.git/tree/0.0.1).
+ - com.alephvault.unity.evmgames: [Clone it - 0.0.2](https://github.com/AlephVault/unity-evmgames/tree/0.0.2).
+ - com.alephvault.unity.evmgames.auth: [Clone it - 0.0.3](https://github.com/AlephVault/unity-evmgames-auth/tree/0.0.3).
+ - com.alephvault.unity.evmgames.livecache: [Clone it - 0.0.2](https://github.com/AlephVault/unity-evmgames-livecache/tree/0.0.2).
+ - com.alephvault.unity.evmgames.localstorage: [Clone it - 0.0.1](https://github.com/AlephVault/unity-evmgames-localstorage/tree/0.0.1).
+ - com.alephvault.unity.evmgames.deeplinks: [Clone it - 0.0.1](git@github.com:AlephVault/unity-evmgames-deeplinks.git/tree/0.0.1).
 
 You can run the attached scripts to clone the dependencies after cloning this project:
 
