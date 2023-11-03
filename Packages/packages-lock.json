@@ -24,6 +24,12 @@
       "source": "local",
       "dependencies": {}
     },
+    "com.alephvault.unity.deeplinks": {
+      "version": "file:/home/luismasuelli/Projects/Unity/unity-deeplinks",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.alephvault.unity.evmgames": {
       "version": "file:../../unity-evmgames",
       "depth": 0,
@@ -39,6 +45,15 @@
       "source": "local",
       "dependencies": {
         "com.alephvault.unity.meetgard.auth": "0.0.3",
+        "com.alephvault.unity.evmgames": "0.0.2"
+      }
+    },
+    "com.alephvault.unity.evmgames.deeplinks": {
+      "version": "file:/home/luismasuelli/Projects/Unity/unity-evmgames-deeplinks",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.alephvault.unity.deeplinks": "0.0.1",
         "com.alephvault.unity.evmgames": "0.0.2"
       }
     },
