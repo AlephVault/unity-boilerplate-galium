@@ -1,6 +1,7 @@
-# A NetRose and EVMGames boilerplate for Unity
+# Galium boilerplate
 
-This is a boilerplate project. It includes EVMGames/NetRose and all the required dependencies, and will be tagged with local or specific versions of those dependency packages.
+This is NOT an intent to become an actual game, but an engine based on NetRose and Nethereum/Crypto (even if only for authentication).  
+This is an opinionated boilerplate project, and includes some default UI (which can and should be modified in actual games) and character designs.
 
 Unity version
 -------------
@@ -68,8 +69,6 @@ As a general rule of thumb, NEVER use any asset included in any of the Samples/ 
 Plugins
 -------
 
-In order to use this boilerplate, as described in the documentation for com.alephvault.unity.evmgames, 6 compiled DLL files are needed in the `Plugins/` directory.
+The Assets/Plugins/ directory contains all the needed libraries (and perhaps few more), especially for cryptocurrencies interactions.
 
-These files can be found as part of a compressed file available in this boilerplate: `evmgames-plugins.zip`. That file contained the required DLL files, which must be placed directly into the `Plugins/` directory.
-They're tested in .NET Framework 4.6.1.
-
+They're tested in .NET Framework 4.6.1 (which is what Unity actually supports, so far).
