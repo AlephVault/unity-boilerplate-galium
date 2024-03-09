@@ -25,7 +25,7 @@
       "dependencies": {}
     },
     "com.alephvault.unity.deeplinks": {
-      "version": "file:/home/luismasuelli/Projects/Unity/unity-deeplinks",
+      "version": "file:../../unity-deeplinks",
       "depth": 0,
       "source": "local",
       "dependencies": {}
@@ -37,6 +37,15 @@
       "dependencies": {
         "com.alephvault.unity.support": "0.0.2",
         "com.unity.nuget.newtonsoft-json": "2.0.0"
+      }
+    },
+    "com.alephvault.unity.evmgames.auth": {
+      "version": "file:../../unity-evmgames-auth",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.alephvault.unity.meetgard.auth": "0.0.3",
+        "com.alephvault.unity.evmgames": "0.0.2"
       }
     },
     "com.alephvault.unity.evmgames.contracts": {
@@ -58,17 +67,8 @@
         "com.alephvault.unity.evmgames.contracts": "0.0.1"
       }
     },
-    "com.alephvault.unity.evmgames.auth": {
-      "version": "file:../../unity-evmgames-auth",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {
-        "com.alephvault.unity.meetgard.auth": "0.0.3",
-        "com.alephvault.unity.evmgames": "0.0.2"
-      }
-    },
     "com.alephvault.unity.evmgames.deeplinks": {
-      "version": "file:/home/luismasuelli/Projects/Unity/unity-evmgames-deeplinks",
+      "version": "file:../../unity-evmgames-deeplinks",
       "depth": 0,
       "source": "local",
       "dependencies": {
@@ -403,12 +403,31 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.unity.ads": {
+      "version": "4.4.2",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.ai.navigation": {
       "version": "1.1.4",
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.modules.ai": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.analytics": {
+      "version": "3.8.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.services.analytics": "1.0.4",
+        "com.unity.ugui": "1.0.0"
       },
       "url": "https://packages.unity.com"
     },
@@ -477,6 +496,42 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.unity.purchasing": {
+      "version": "4.9.3",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.modules.unityanalytics": "1.0.0",
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.modules.androidjni": "1.0.0",
+        "com.unity.services.core": "1.8.1"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.services.analytics": {
+      "version": "5.0.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.services.core": "1.10.1"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.services.core": {
+      "version": "1.11.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.nuget.newtonsoft-json": "3.2.1",
+        "com.unity.modules.androidjni": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.sysroot": {
       "version": "2.0.5",
       "depth": 1,
@@ -543,6 +598,46 @@
         "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0"
       }
+    },
+    "com.unity.xr.legacyinputhelpers": {
+      "version": "2.1.10",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.vr": "1.0.0",
+        "com.unity.modules.xr": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.walletconnect.core": {
+      "version": "3.0.6",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.0.0"
+      },
+      "url": "https://package.openupm.com"
+    },
+    "com.walletconnect.modal": {
+      "version": "1.0.6",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.walletconnect.core": "3.0.6",
+        "com.walletconnect.ui": "1.0.6"
+      },
+      "url": "https://package.openupm.com"
+    },
+    "com.walletconnect.ui": {
+      "version": "1.0.6",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.walletconnect.core": "3.0.6",
+        "com.unity.textmeshpro": "3.0.0",
+        "com.unity.ugui": "1.0.0"
+      },
+      "url": "https://package.openupm.com"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
