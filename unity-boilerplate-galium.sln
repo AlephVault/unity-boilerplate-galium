@@ -1,0 +1,293 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.WindRose.RefMapChars.Runtime", "AlephVault.Unity.WindRose.RefMapChars.Runtime.csproj", "{2f96791f-fb7b-5fc3-8c45-398df8b008e3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.Binary.Runtime", "AlephVault.Unity.Binary.Runtime.csproj", "{8eef2a8e-6c9c-0cca-0496-13fc64ae3b6d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.Meetgard.Scopes.Runtime", "AlephVault.Unity.Meetgard.Scopes.Runtime.csproj", "{75a9d6b8-346d-5a3d-c4bc-1388e13aa0eb}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.Meetgard.Runtime", "AlephVault.Unity.Meetgard.Runtime.csproj", "{616d2c1a-20b4-bf79-dd3d-3e7f2c9a242b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.EVMGames.Contracts.Samples", "AlephVault.Unity.EVMGames.Contracts.Samples.csproj", "{3b29da29-e908-03bb-da21-770a7ded5635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.BackPack.Runtime", "AlephVault.Unity.BackPack.Runtime.csproj", "{9f98797b-bf13-e3db-ea18-5cb8fdf550ef}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.Boilerplates.Editor", "AlephVault.Unity.Boilerplates.Editor.csproj", "{a0173f32-9b3c-f666-deab-5307ba5bc0ce}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.Support.Runtime", "AlephVault.Unity.Support.Runtime.csproj", "{e8aa9239-9080-d9c8-e0de-d416b63009e0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.Support.Generic.Runtime", "AlephVault.Unity.Support.Generic.Runtime.csproj", "{8ca67dcb-e8d3-6845-9d49-5f2c6f1a9af5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.Meetgard.Auth.Runtime", "AlephVault.Unity.Meetgard.Auth.Runtime.csproj", "{2ba52ba0-ed56-cbc8-9677-25735f2aef99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.EVMGames.Contracts.Editor", "AlephVault.Unity.EVMGames.Contracts.Editor.csproj", "{9ca686be-67cd-e573-5a80-8484feb3e47a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.GabTab.Editor", "AlephVault.Unity.GabTab.Editor.csproj", "{6ad6ccc4-6eac-c4bb-2a1a-d70a1441e7de}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.EVMGames.Samples", "AlephVault.Unity.EVMGames.Samples.csproj", "{f04d8c2b-5847-3098-0f57-61f2c4926ee4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.NetRose.Samples", "AlephVault.Unity.NetRose.Samples.csproj", "{5c1485a5-1cd1-a533-bfde-63de1c6e0d3b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.NetRose.Runtime", "AlephVault.Unity.NetRose.Runtime.csproj", "{6309e773-dbe4-ac5b-57e6-fd67a69895f7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.Meetgard.Scopes.Samples", "AlephVault.Unity.Meetgard.Scopes.Samples.csproj", "{1d84229d-5a5d-f840-48b5-913c96c6a745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.IPFS.Runtime", "AlephVault.Unity.IPFS.Runtime.csproj", "{648ea92b-a61a-4233-40d6-ce7b9110cea1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.EVMGames.LiveCache.Runtime", "AlephVault.Unity.EVMGames.LiveCache.Runtime.csproj", "{85fc5dc6-0848-8a4e-6323-47aaeeeab4dc}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.RemoteStorage.Samples", "AlephVault.Unity.RemoteStorage.Samples.csproj", "{f217e47a-46e7-3b0c-5608-0459616fcd7d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.WindRose.Runtime", "AlephVault.Unity.WindRose.Runtime.csproj", "{9fe04421-54ac-388e-88b1-5a792029224d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.RemoteStorage.Runtime", "AlephVault.Unity.RemoteStorage.Runtime.csproj", "{5adf5aab-c18e-932e-c93e-b5c2dedafe7c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.SpriteUtils.Runtime", "AlephVault.Unity.SpriteUtils.Runtime.csproj", "{e006c65b-0ee7-eb01-7e63-ab8a2435b47d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.EVMGames.Auth.Samples", "AlephVault.Unity.EVMGames.Auth.Samples.csproj", "{695eb923-7cd0-04b6-94ba-37938b716998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.GabTab.Runtime", "AlephVault.Unity.GabTab.Runtime.csproj", "{1708e121-0c6d-e63b-ffe2-c41b4090e1ed}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.WindRose.CubeWorlds.Runtime", "AlephVault.Unity.WindRose.CubeWorlds.Runtime.csproj", "{b29b2ead-9ac4-5e9e-9507-82740efd1fce}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.Meetgard.Samples", "AlephVault.Unity.Meetgard.Samples.csproj", "{a41888bf-96e7-47c4-3897-8bd9a552bc11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.Meetgard.Auth.Samples", "AlephVault.Unity.Meetgard.Auth.Samples.csproj", "{fa76dec4-c0c3-1ef2-e8ed-69754a242765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.Meetgard.Editor", "AlephVault.Unity.Meetgard.Editor.csproj", "{b6024aa7-8c8d-728a-be74-46217ebbd730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.EVMGames.DeepLinks.Runtime", "AlephVault.Unity.EVMGames.DeepLinks.Runtime.csproj", "{eb1a8933-27de-c424-4052-a6e0e9a81bec}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.EVMGames.Contracts.Bridge.Runtime", "AlephVault.Unity.EVMGames.Contracts.Bridge.Runtime.csproj", "{e8949846-820d-ec9d-c514-42664b29668e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.WindRose.BackPack.Editor", "AlephVault.Unity.WindRose.BackPack.Editor.csproj", "{42ae34dc-6017-ee59-284b-14d411fe3ddc}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.WindRose.Editor", "AlephVault.Unity.WindRose.Editor.csproj", "{d377a387-2fb5-2880-47b9-97487147d101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.WindRose.SpriteUtils.Runtime", "AlephVault.Unity.WindRose.SpriteUtils.Runtime.csproj", "{8eb29453-0616-6a82-8bd8-dd75e182feff}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.SpriteUtils.Samples", "AlephVault.Unity.SpriteUtils.Samples.csproj", "{2f820317-9d5c-d958-b3dc-27bcf479cbcb}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.Meetgard.Auth.Editor", "AlephVault.Unity.Meetgard.Auth.Editor.csproj", "{95d61560-1440-dd10-ca16-bafe563b98d9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.WindRose.SpriteUtils.Samples", "AlephVault.Unity.WindRose.SpriteUtils.Samples.csproj", "{95c3277b-55f4-b6bd-317b-1c7b186a4db0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.EVMGames.Contracts.Runtime", "AlephVault.Unity.EVMGames.Contracts.Runtime.csproj", "{ee62fc50-a9cf-d4c8-a6ef-27db64c66620}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.WindRose.RefMapChars.Editor", "AlephVault.Unity.WindRose.RefMapChars.Editor.csproj", "{942c21b3-c850-0735-1f32-3b5f94082dda}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.EVMGames.Auth.Runtime", "AlephVault.Unity.EVMGames.Auth.Runtime.csproj", "{eb414556-b6a8-5cc4-2877-60841e4ef6f0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.DeepLinks.Runtime", "AlephVault.Unity.DeepLinks.Runtime.csproj", "{577d5994-68df-af7f-f0f3-8166ac434206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.NetRose.Editor", "AlephVault.Unity.NetRose.Editor.csproj", "{7ed8805a-90dc-4a22-daaf-e3f614b42411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.NetRose.RefMapChars.Runtime", "AlephVault.Unity.NetRose.RefMapChars.Runtime.csproj", "{aeac5421-10b2-12af-5d74-541c7c12da97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.WindRose.RefMapChars.Samples", "AlephVault.Unity.WindRose.RefMapChars.Samples.csproj", "{638d31cf-ebbd-8282-cd7e-854ec540f2b8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.TextureUtils.Runtime", "AlephVault.Unity.TextureUtils.Runtime.csproj", "{e23916fa-b8ca-18f1-8f60-e1a407fc70de}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.Layout.Runtime", "AlephVault.Unity.Layout.Runtime.csproj", "{c181180d-3803-2d98-769d-9e776ec1695f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.WindRose.BackPack.Runtime", "AlephVault.Unity.WindRose.BackPack.Runtime.csproj", "{7480843f-37a3-2683-6aa2-7d1176773c37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.WindRose.Biomes.Runtime", "AlephVault.Unity.WindRose.Biomes.Runtime.csproj", "{5d398765-cf18-968a-9fd5-cba98ff291b6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.WindRose.NeighbourTeleports.Samples", "AlephVault.Unity.WindRose.NeighbourTeleports.Samples.csproj", "{83f347b3-3e8e-bec8-bc64-7c3b0ac5f2fa}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.Support.Generic.Editor", "AlephVault.Unity.Support.Generic.Editor.csproj", "{7acef90d-c1ef-c18c-788e-417448e48476}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.EVMGames.DeepLinks.Samples", "AlephVault.Unity.EVMGames.DeepLinks.Samples.csproj", "{f3d0058b-40fd-e84e-711d-cb68487f0afb}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.WindRose.Biomes.Samples", "AlephVault.Unity.WindRose.Biomes.Samples.csproj", "{2c1bebaa-44b8-d8a5-4611-62ef4be3cc74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.WindRose.NeighbourTeleports.Runtime", "AlephVault.Unity.WindRose.NeighbourTeleports.Runtime.csproj", "{08921f5b-fbda-5e93-b17b-c2b5579d1e4e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.EVMGames.LocalStorage.Runtime", "AlephVault.Unity.EVMGames.LocalStorage.Runtime.csproj", "{3866ce97-77d5-dcf2-816c-3d526a9b5455}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.WindRose.GabTab.Runtime", "AlephVault.Unity.WindRose.GabTab.Runtime.csproj", "{3c2f48f0-0a50-b8b9-e3e6-2c4e3bdf707c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.EVMGames.Runtime", "AlephVault.Unity.EVMGames.Runtime.csproj", "{a966bc2e-96e2-72eb-0128-c4967e35e66a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.NetRose.Storage.Editor", "AlephVault.Unity.NetRose.Storage.Editor.csproj", "{a2eb553d-1f8a-7458-d23c-246d504dc019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.MenuActions.Editor", "AlephVault.Unity.MenuActions.Editor.csproj", "{658fc196-47a7-b149-0994-630b51fb2c0e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.SoundAround", "AlephVault.Unity.SoundAround.csproj", "{bae6fa57-fa73-2f02-472b-dce6185b0aad}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.EVMGames.LocalStorage.Samples", "AlephVault.Unity.EVMGames.LocalStorage.Samples.csproj", "{fb5b9d95-7a2d-4193-8d12-211342c27582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.NetRose.RefMapChars.Editor", "AlephVault.Unity.NetRose.RefMapChars.Editor.csproj", "{152f0516-e393-bec1-508e-83f1e9c747ab}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.BackPack.Editor", "AlephVault.Unity.BackPack.Editor.csproj", "{f6bae6e6-83f1-d973-d4c3-7b9c2520c7e7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.TextureUtils.Samples", "AlephVault.Unity.TextureUtils.Samples.csproj", "{1b939d3e-d3c5-a438-026a-d7648158974d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.DeepLinks.Samples", "AlephVault.Unity.DeepLinks.Samples.csproj", "{56bb4e49-9c7f-f585-afac-ba79643b95e0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.IPFS.Samples", "AlephVault.Unity.IPFS.Samples.csproj", "{ca26aaf6-2d3a-d88a-c8f2-f437c3547f55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.EVMGames.LiveCache.Samples", "AlephVault.Unity.EVMGames.LiveCache.Samples.csproj", "{e481dcf1-407d-0ac1-4cb8-354c63923310}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.WindRose.CubeWorlds.Samples", "AlephVault.Unity.WindRose.CubeWorlds.Samples.csproj", "{78751086-c9b3-464d-d512-7a4cf8be59a2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.WindRose.GabTab.Editor", "AlephVault.Unity.WindRose.GabTab.Editor.csproj", "{a3cf2e52-e072-9115-ff30-8cf81de99124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{24754613-3076-72b2-9b57-d328650c217a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.LPCBiomes.Runtime", "AlephVault.Unity.LPCBiomes.Runtime.csproj", "{df8f664e-47db-f463-13c8-d5ffb1ec07c1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{3bb89442-cc97-23ef-ca11-35fdeb6e3ef3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2f96791f-fb7b-5fc3-8c45-398df8b008e3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2f96791f-fb7b-5fc3-8c45-398df8b008e3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8eef2a8e-6c9c-0cca-0496-13fc64ae3b6d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8eef2a8e-6c9c-0cca-0496-13fc64ae3b6d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75a9d6b8-346d-5a3d-c4bc-1388e13aa0eb}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75a9d6b8-346d-5a3d-c4bc-1388e13aa0eb}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616d2c1a-20b4-bf79-dd3d-3e7f2c9a242b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616d2c1a-20b4-bf79-dd3d-3e7f2c9a242b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3b29da29-e908-03bb-da21-770a7ded5635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3b29da29-e908-03bb-da21-770a7ded5635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9f98797b-bf13-e3db-ea18-5cb8fdf550ef}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9f98797b-bf13-e3db-ea18-5cb8fdf550ef}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a0173f32-9b3c-f666-deab-5307ba5bc0ce}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a0173f32-9b3c-f666-deab-5307ba5bc0ce}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e8aa9239-9080-d9c8-e0de-d416b63009e0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e8aa9239-9080-d9c8-e0de-d416b63009e0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ca67dcb-e8d3-6845-9d49-5f2c6f1a9af5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ca67dcb-e8d3-6845-9d49-5f2c6f1a9af5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ba52ba0-ed56-cbc8-9677-25735f2aef99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ba52ba0-ed56-cbc8-9677-25735f2aef99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ca686be-67cd-e573-5a80-8484feb3e47a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ca686be-67cd-e573-5a80-8484feb3e47a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ad6ccc4-6eac-c4bb-2a1a-d70a1441e7de}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ad6ccc4-6eac-c4bb-2a1a-d70a1441e7de}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f04d8c2b-5847-3098-0f57-61f2c4926ee4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f04d8c2b-5847-3098-0f57-61f2c4926ee4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5c1485a5-1cd1-a533-bfde-63de1c6e0d3b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5c1485a5-1cd1-a533-bfde-63de1c6e0d3b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6309e773-dbe4-ac5b-57e6-fd67a69895f7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6309e773-dbe4-ac5b-57e6-fd67a69895f7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1d84229d-5a5d-f840-48b5-913c96c6a745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1d84229d-5a5d-f840-48b5-913c96c6a745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{648ea92b-a61a-4233-40d6-ce7b9110cea1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{648ea92b-a61a-4233-40d6-ce7b9110cea1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85fc5dc6-0848-8a4e-6323-47aaeeeab4dc}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85fc5dc6-0848-8a4e-6323-47aaeeeab4dc}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f217e47a-46e7-3b0c-5608-0459616fcd7d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f217e47a-46e7-3b0c-5608-0459616fcd7d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9fe04421-54ac-388e-88b1-5a792029224d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9fe04421-54ac-388e-88b1-5a792029224d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5adf5aab-c18e-932e-c93e-b5c2dedafe7c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5adf5aab-c18e-932e-c93e-b5c2dedafe7c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e006c65b-0ee7-eb01-7e63-ab8a2435b47d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e006c65b-0ee7-eb01-7e63-ab8a2435b47d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695eb923-7cd0-04b6-94ba-37938b716998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695eb923-7cd0-04b6-94ba-37938b716998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1708e121-0c6d-e63b-ffe2-c41b4090e1ed}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1708e121-0c6d-e63b-ffe2-c41b4090e1ed}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b29b2ead-9ac4-5e9e-9507-82740efd1fce}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b29b2ead-9ac4-5e9e-9507-82740efd1fce}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a41888bf-96e7-47c4-3897-8bd9a552bc11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a41888bf-96e7-47c4-3897-8bd9a552bc11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fa76dec4-c0c3-1ef2-e8ed-69754a242765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fa76dec4-c0c3-1ef2-e8ed-69754a242765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b6024aa7-8c8d-728a-be74-46217ebbd730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b6024aa7-8c8d-728a-be74-46217ebbd730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{eb1a8933-27de-c424-4052-a6e0e9a81bec}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{eb1a8933-27de-c424-4052-a6e0e9a81bec}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e8949846-820d-ec9d-c514-42664b29668e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e8949846-820d-ec9d-c514-42664b29668e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42ae34dc-6017-ee59-284b-14d411fe3ddc}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42ae34dc-6017-ee59-284b-14d411fe3ddc}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d377a387-2fb5-2880-47b9-97487147d101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d377a387-2fb5-2880-47b9-97487147d101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8eb29453-0616-6a82-8bd8-dd75e182feff}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8eb29453-0616-6a82-8bd8-dd75e182feff}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2f820317-9d5c-d958-b3dc-27bcf479cbcb}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2f820317-9d5c-d958-b3dc-27bcf479cbcb}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95d61560-1440-dd10-ca16-bafe563b98d9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95d61560-1440-dd10-ca16-bafe563b98d9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95c3277b-55f4-b6bd-317b-1c7b186a4db0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95c3277b-55f4-b6bd-317b-1c7b186a4db0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ee62fc50-a9cf-d4c8-a6ef-27db64c66620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ee62fc50-a9cf-d4c8-a6ef-27db64c66620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942c21b3-c850-0735-1f32-3b5f94082dda}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942c21b3-c850-0735-1f32-3b5f94082dda}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{eb414556-b6a8-5cc4-2877-60841e4ef6f0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{eb414556-b6a8-5cc4-2877-60841e4ef6f0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577d5994-68df-af7f-f0f3-8166ac434206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577d5994-68df-af7f-f0f3-8166ac434206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ed8805a-90dc-4a22-daaf-e3f614b42411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ed8805a-90dc-4a22-daaf-e3f614b42411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{aeac5421-10b2-12af-5d74-541c7c12da97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{aeac5421-10b2-12af-5d74-541c7c12da97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{638d31cf-ebbd-8282-cd7e-854ec540f2b8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{638d31cf-ebbd-8282-cd7e-854ec540f2b8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e23916fa-b8ca-18f1-8f60-e1a407fc70de}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e23916fa-b8ca-18f1-8f60-e1a407fc70de}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c181180d-3803-2d98-769d-9e776ec1695f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c181180d-3803-2d98-769d-9e776ec1695f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7480843f-37a3-2683-6aa2-7d1176773c37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7480843f-37a3-2683-6aa2-7d1176773c37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5d398765-cf18-968a-9fd5-cba98ff291b6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5d398765-cf18-968a-9fd5-cba98ff291b6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83f347b3-3e8e-bec8-bc64-7c3b0ac5f2fa}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83f347b3-3e8e-bec8-bc64-7c3b0ac5f2fa}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7acef90d-c1ef-c18c-788e-417448e48476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7acef90d-c1ef-c18c-788e-417448e48476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f3d0058b-40fd-e84e-711d-cb68487f0afb}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f3d0058b-40fd-e84e-711d-cb68487f0afb}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2c1bebaa-44b8-d8a5-4611-62ef4be3cc74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2c1bebaa-44b8-d8a5-4611-62ef4be3cc74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08921f5b-fbda-5e93-b17b-c2b5579d1e4e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08921f5b-fbda-5e93-b17b-c2b5579d1e4e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3866ce97-77d5-dcf2-816c-3d526a9b5455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3866ce97-77d5-dcf2-816c-3d526a9b5455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3c2f48f0-0a50-b8b9-e3e6-2c4e3bdf707c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3c2f48f0-0a50-b8b9-e3e6-2c4e3bdf707c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a966bc2e-96e2-72eb-0128-c4967e35e66a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a966bc2e-96e2-72eb-0128-c4967e35e66a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a2eb553d-1f8a-7458-d23c-246d504dc019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a2eb553d-1f8a-7458-d23c-246d504dc019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658fc196-47a7-b149-0994-630b51fb2c0e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658fc196-47a7-b149-0994-630b51fb2c0e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{bae6fa57-fa73-2f02-472b-dce6185b0aad}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{bae6fa57-fa73-2f02-472b-dce6185b0aad}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fb5b9d95-7a2d-4193-8d12-211342c27582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fb5b9d95-7a2d-4193-8d12-211342c27582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{152f0516-e393-bec1-508e-83f1e9c747ab}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{152f0516-e393-bec1-508e-83f1e9c747ab}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f6bae6e6-83f1-d973-d4c3-7b9c2520c7e7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f6bae6e6-83f1-d973-d4c3-7b9c2520c7e7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1b939d3e-d3c5-a438-026a-d7648158974d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1b939d3e-d3c5-a438-026a-d7648158974d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56bb4e49-9c7f-f585-afac-ba79643b95e0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56bb4e49-9c7f-f585-afac-ba79643b95e0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ca26aaf6-2d3a-d88a-c8f2-f437c3547f55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ca26aaf6-2d3a-d88a-c8f2-f437c3547f55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e481dcf1-407d-0ac1-4cb8-354c63923310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e481dcf1-407d-0ac1-4cb8-354c63923310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78751086-c9b3-464d-d512-7a4cf8be59a2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78751086-c9b3-464d-d512-7a4cf8be59a2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a3cf2e52-e072-9115-ff30-8cf81de99124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a3cf2e52-e072-9115-ff30-8cf81de99124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24754613-3076-72b2-9b57-d328650c217a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24754613-3076-72b2-9b57-d328650c217a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{df8f664e-47db-f463-13c8-d5ffb1ec07c1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{df8f664e-47db-f463-13c8-d5ffb1ec07c1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3bb89442-cc97-23ef-ca11-35fdeb6e3ef3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3bb89442-cc97-23ef-ca11-35fdeb6e3ef3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
