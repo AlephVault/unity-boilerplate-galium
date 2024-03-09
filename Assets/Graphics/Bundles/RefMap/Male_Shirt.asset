@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 337e6c51b8fb45f0a912f114be7d7290, type: 3}
+  m_Name: Male_Shirt
+  m_EditorClassIdentifier: 
+  addOns:
+    m_keys: 0100020003000400050006000700080009000a000b00
+    m_values:
+    - {fileID: 11400000, guid: 2e532c163af3df30e88c2c256d262df7, type: 2}
+    - {fileID: 11400000, guid: d2802d98a2f3ab94883bd1b12eb42f90, type: 2}
+    - {fileID: 11400000, guid: a9677f09601b583b88a0467c0deff77b, type: 2}
+    - {fileID: 11400000, guid: 8c19cf843cebbf52180d771de65c44fd, type: 2}
+    - {fileID: 11400000, guid: 8225b1488f44a5f2ebb1807628e3c855, type: 2}
+    - {fileID: 11400000, guid: 03878bb10c4858468aa188f7c3cae112, type: 2}
+    - {fileID: 11400000, guid: d2d3690db19c018919b2dbd1d0d533ee, type: 2}
+    - {fileID: 11400000, guid: baad233035601cf1a8b8f88786197e26, type: 2}
+    - {fileID: 11400000, guid: f16fc785ca77b3edaaba4f5329625954, type: 2}
+    - {fileID: 11400000, guid: ad1f57ff0bac22a01b18ae62cf4e86f9, type: 2}
+    - {fileID: 11400000, guid: 161b75580db00ee97b95343a8e8823ac, type: 2}

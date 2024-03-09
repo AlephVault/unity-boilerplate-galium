@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 337e6c51b8fb45f0a912f114be7d7290, type: 3}
+  m_Name: Female_LongShirt
+  m_EditorClassIdentifier: 
+  addOns:
+    m_keys: 010002000300040005000600070008000900
+    m_values:
+    - {fileID: 11400000, guid: d5f2e360c19c3166f9ad08c52843b157, type: 2}
+    - {fileID: 11400000, guid: 2a82877b39ca34a3c8212a83f9794fe2, type: 2}
+    - {fileID: 11400000, guid: 9023787151cece8eda9be6bf4935e724, type: 2}
+    - {fileID: 11400000, guid: 1a77c3566d8d7b60988cabe6d645a07f, type: 2}
+    - {fileID: 11400000, guid: ddc987a441796f03d8d935777ea4f1c7, type: 2}
+    - {fileID: 11400000, guid: 871efe0a79ae7fe3487553af5b8d2677, type: 2}
+    - {fileID: 11400000, guid: d1afedc5225fb88e8bbdb558bfc5a723, type: 2}
+    - {fileID: 11400000, guid: 9e11d576ccfb12214a71747ae0c54352, type: 2}
+    - {fileID: 11400000, guid: f251777da92188c66a0cc03236be198f, type: 2}

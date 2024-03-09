@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 337e6c51b8fb45f0a912f114be7d7290, type: 3}
+  m_Name: Male_Pants
+  m_EditorClassIdentifier: 
+  addOns:
+    m_keys: 01000200030004000500
+    m_values:
+    - {fileID: 11400000, guid: 2758ca04d5486b6b7b8a3d7df0ac829c, type: 2}
+    - {fileID: 11400000, guid: 873e4beed09baec27858373e28136f03, type: 2}
+    - {fileID: 11400000, guid: 517f25fe2fc7b73288823542374084b6, type: 2}
+    - {fileID: 11400000, guid: 72c84b7c5b56f115ca1a8d244c55d72d, type: 2}
+    - {fileID: 11400000, guid: 1b30b51528640346e9e30d1f6225caca, type: 2}

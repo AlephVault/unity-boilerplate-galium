@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 337e6c51b8fb45f0a912f114be7d7290, type: 3}
+  m_Name: Male_LongShirt
+  m_EditorClassIdentifier: 
+  addOns:
+    m_keys: 010002000300040005000600070008000900
+    m_values:
+    - {fileID: 11400000, guid: 02da35c7ae328e54799f505a1e05e500, type: 2}
+    - {fileID: 11400000, guid: 6dda055bcea6e3d08b263eae6765b99f, type: 2}
+    - {fileID: 11400000, guid: aee4e4b7482e8a0a79d3004221341ad4, type: 2}
+    - {fileID: 11400000, guid: 230e287faf40d735a809a5a83b023506, type: 2}
+    - {fileID: 11400000, guid: 5530cc28958d4bcb2ad4e9c253dcea07, type: 2}
+    - {fileID: 11400000, guid: 80d13037b3056a79cb913177e2606a59, type: 2}
+    - {fileID: 11400000, guid: 0e6eb42e4e0c7a4ea9734d0284583dfa, type: 2}
+    - {fileID: 11400000, guid: 1e86491cae6e096e1b5db643913034fc, type: 2}
+    - {fileID: 11400000, guid: 7f542295617b495158a4d3fdbd75a559, type: 2}
