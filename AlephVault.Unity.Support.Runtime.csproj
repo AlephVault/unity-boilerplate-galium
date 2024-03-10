@@ -342,8 +342,20 @@
      <Reference Include="UnityEditor.LinuxStandalone.Extensions">
      <HintPath>/home/luis/Unity/Hub/Editor/2023.1.13f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll</HintPath>
      </Reference>
+     <Reference Include="Nethereum.GnosisSafe">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.GnosisSafe.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.KeyStore">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.KeyStore.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.Accounts">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.Accounts.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.Collections.LowLevel.ILSupport">
      <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.JsonRpc.RpcClient">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.JsonRpc.RpcClient.dll</HintPath>
      </Reference>
      <Reference Include="nunit.framework">
      <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.unity.ext.nunit@2.0.3/net40/unity-custom/nunit.framework.dll</HintPath>
@@ -354,155 +366,167 @@
      <Reference Include="Unity.Analytics.Editor">
      <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Editor.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.unity.collab-proxy@2.0.7/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.unity.collab-proxy@2.0.7/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
-     </Reference>
-     <Reference Include="log4netPlastic">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.unity.collab-proxy@2.0.7/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
-     </Reference>
-     <Reference Include="Newtonsoft.Json">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll</HintPath>
-     </Reference>
-     <Reference Include="unityplastic">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.unity.collab-proxy@2.0.7/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Analytics.StandardEvents">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.unity.analytics@3.8.1/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
-     </Reference>
-     <Reference Include="Nethereum.Util">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Nethereum.Util.dll</HintPath>
-     </Reference>
-     <Reference Include="Nethereum.RPC">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Nethereum.RPC.dll</HintPath>
-     </Reference>
-     <Reference Include="Nethereum.Siwe">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Nethereum.Siwe.dll</HintPath>
-     </Reference>
-     <Reference Include="Microsoft.Extensions.Logging.Abstractions">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
-     </Reference>
-     <Reference Include="Nethereum.JsonRpc.Client">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Nethereum.JsonRpc.Client.dll</HintPath>
-     </Reference>
-     <Reference Include="BouncyCastle.Crypto">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/External/BouncyCastle.Crypto.dll</HintPath>
-     </Reference>
-     <Reference Include="QRCoder.Unity">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/QRCoder.Unity.dll</HintPath>
+     <Reference Include="NBitcoin">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/NBitcoin.dll</HintPath>
      </Reference>
      <Reference Include="Nethereum.Metamask">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Nethereum.Metamask.dll</HintPath>
-     </Reference>
-     <Reference Include="zxing.unity">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/External/ZXing/zxing.unity.dll</HintPath>
-     </Reference>
-     <Reference Include="Nethereum.Contracts">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Nethereum.Contracts.dll</HintPath>
-     </Reference>
-     <Reference Include="Nethereum.GnosisSafe">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Nethereum.GnosisSafe.dll</HintPath>
-     </Reference>
-     <Reference Include="Nethereum.Merkle">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Nethereum.Merkle.dll</HintPath>
-     </Reference>
-     <Reference Include="Nethereum.Model">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Nethereum.Model.dll</HintPath>
-     </Reference>
-     <Reference Include="Nethereum.Signer">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Nethereum.Signer.dll</HintPath>
-     </Reference>
-     <Reference Include="Nethereum.Web3">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Nethereum.Web3.dll</HintPath>
-     </Reference>
-     <Reference Include="Nethereum.ABI">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Nethereum.ABI.dll</HintPath>
-     </Reference>
-     <Reference Include="Nethereum.Merkle.Patricia">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Nethereum.Merkle.Patricia.dll</HintPath>
-     </Reference>
-     <Reference Include="Nethereum.Siwe.Core">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Nethereum.Siwe.Core.dll</HintPath>
-     </Reference>
-     <Reference Include="System.Drawing.Common">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/System.Drawing.Common.dll</HintPath>
-     </Reference>
-     <Reference Include="Nethereum.Hex">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Nethereum.Hex.dll</HintPath>
-     </Reference>
-     <Reference Include="embedded-wallet-service-sdk">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/embedded-wallet-service-sdk.dll</HintPath>
-     </Reference>
-     <Reference Include="Nethereum.RLP">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Nethereum.RLP.dll</HintPath>
-     </Reference>
-     <Reference Include="QRCoder">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/QRCoder.dll</HintPath>
-     </Reference>
-     <Reference Include="Nethereum.BlockchainProcessing">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Nethereum.BlockchainProcessing.dll</HintPath>
-     </Reference>
-     <Reference Include="Nethereum.JsonRpc.RpcClient">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Nethereum.JsonRpc.RpcClient.dll</HintPath>
-     </Reference>
-     <Reference Include="Nethereum.Accounts">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Nethereum.Accounts.dll</HintPath>
-     </Reference>
-     <Reference Include="Nethereum.Unity">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Nethereum.Unity.dll</HintPath>
-     </Reference>
-     <Reference Include="Nethereum.KeyStore">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Nethereum.KeyStore.dll</HintPath>
-     </Reference>
-     <Reference Include="NBitcoin">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/NBitcoin.dll</HintPath>
-     </Reference>
-     <Reference Include="Nethereum.UI">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Nethereum.UI.dll</HintPath>
-     </Reference>
-     <Reference Include="Nethereum.Signer.EIP712">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/Nethereum/Nethereum.Signer.EIP712.dll</HintPath>
-     </Reference>
-     <Reference Include="Websocket.Client">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/External/Websocket.Client.dll</HintPath>
-     </Reference>
-     <Reference Include="Microsoft.IdentityModel.Abstractions">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/External/Microsoft.IdentityModel.Abstractions.dll</HintPath>
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.Metamask.dll</HintPath>
      </Reference>
      <Reference Include="Microsoft.IdentityModel.Logging">
      <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/External/Microsoft.IdentityModel.Logging.dll</HintPath>
      </Reference>
-     <Reference Include="WalletConnectSharp.Common">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/WalletConnectSharp.Common.dll</HintPath>
+     <Reference Include="Nethereum.Unity">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.Unity.dll</HintPath>
      </Reference>
-     <Reference Include="System.Threading.Channels">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/External/System.Threading.Channels.dll</HintPath>
+     <Reference Include="Unity.Plastic.Antlr3.Runtime">
+     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.unity.collab-proxy@2.0.7/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
      </Reference>
-     <Reference Include="Microsoft.IdentityModel.Tokens">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/External/Microsoft.IdentityModel.Tokens.dll</HintPath>
+     <Reference Include="Nethereum.Signer.EIP712">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.Signer.EIP712.dll</HintPath>
      </Reference>
-     <Reference Include="WalletConnectSharp.Storage">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/WalletConnectSharp.Storage.dll</HintPath>
+     <Reference Include="Nethereum.Web3">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.Web3.dll</HintPath>
+     </Reference>
+     <Reference Include="zxing.unity">
+     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/External/ZXing/zxing.unity.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.RPC">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.RPC.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Plastic.Newtonsoft.Json">
+     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.unity.collab-proxy@2.0.7/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.RLP">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.RLP.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.Hex">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.Hex.dll</HintPath>
+     </Reference>
+     <Reference Include="WalletConnectSharp.Core">
+     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/WalletConnectSharp.Core.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.Model">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.Model.dll</HintPath>
+     </Reference>
+     <Reference Include="log4netPlastic">
+     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.unity.collab-proxy@2.0.7/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.Signer">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.Signer.dll</HintPath>
      </Reference>
      <Reference Include="WalletConnectSharp.Crypto">
      <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/WalletConnectSharp.Crypto.dll</HintPath>
      </Reference>
-     <Reference Include="WalletConnectSharp.Network.Websocket">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/WalletConnectSharp.Network.Websocket.dll</HintPath>
+     <Reference Include="BouncyCastle.Crypto">
+     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/External/BouncyCastle.Crypto.dll</HintPath>
      </Reference>
-     <Reference Include="System.Reactive">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/External/System.Reactive.dll</HintPath>
+     <Reference Include="Microsoft.IdentityModel.Tokens">
+     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/External/Microsoft.IdentityModel.Tokens.dll</HintPath>
+     </Reference>
+     <Reference Include="embedded-wallet-service-sdk">
+     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/embedded-wallet-service-sdk.dll</HintPath>
+     </Reference>
+     <Reference Include="System.Drawing.Common">
+     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/System.Drawing.Common.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.Merkle">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.Merkle.dll</HintPath>
+     </Reference>
+     <Reference Include="Websocket.Client">
+     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/External/Websocket.Client.dll</HintPath>
      </Reference>
      <Reference Include="WalletConnectSharp.Sign">
      <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/WalletConnectSharp.Sign.dll</HintPath>
      </Reference>
+     <Reference Include="QRCoder">
+     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/QRCoder.dll</HintPath>
+     </Reference>
+     <Reference Include="System.Reactive">
+     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/External/System.Reactive.dll</HintPath>
+     </Reference>
+     <Reference Include="WalletConnectSharp.Common">
+     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/WalletConnectSharp.Common.dll</HintPath>
+     </Reference>
      <Reference Include="WalletConnectSharp.Network">
      <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/WalletConnectSharp.Network.dll</HintPath>
      </Reference>
-     <Reference Include="WalletConnectSharp.Core">
-     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/WalletConnectSharp.Core.dll</HintPath>
+     <Reference Include="Microsoft.IdentityModel.Abstractions">
+     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/External/Microsoft.IdentityModel.Abstractions.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.Util">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.Util.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.Contracts">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.Contracts.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.JsonRpc.Client">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.JsonRpc.Client.dll</HintPath>
+     </Reference>
+     <Reference Include="Newtonsoft.Json">
+     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll</HintPath>
+     </Reference>
+     <Reference Include="WalletConnectSharp.Storage">
+     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/WalletConnectSharp.Storage.dll</HintPath>
+     </Reference>
+     <Reference Include="System.Threading.Channels">
+     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/External/System.Threading.Channels.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.BlockchainProcessing">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.BlockchainProcessing.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.Merkle.Patricia">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.Merkle.Patricia.dll</HintPath>
+     </Reference>
+     <Reference Include="Microsoft.Extensions.Logging.Abstractions">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.ABI">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.ABI.dll</HintPath>
+     </Reference>
+     <Reference Include="unityplastic">
+     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.unity.collab-proxy@2.0.7/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.UI">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.UI.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.Siwe">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.Siwe.dll</HintPath>
+     </Reference>
+     <Reference Include="WalletConnectSharp.Network.Websocket">
+     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/WalletConnectSharp.Network.Websocket.dll</HintPath>
+     </Reference>
+     <Reference Include="QRCoder.Unity">
+     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/QRCoder.Unity.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Analytics.StandardEvents">
+     <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.unity.analytics@3.8.1/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.Siwe.Core">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.Siwe.Core.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.EVM">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.EVM.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.HdWallet">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.HdWallet.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.Besu">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.Besu.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.Optimism">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.Optimism.dll</HintPath>
+     </Reference>
+     <Reference Include="ADRaffy.ENSNormalize">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/ADRaffy.ENSNormalize.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.Geth">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.Geth.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.Unity.Metamask">
+     <HintPath>/home/luis/Projects/AlephVault/Nethereum.Unity/Runtime/Nethereum.Unity.Metamask.dll</HintPath>
+     </Reference>
+     <Reference Include="Nethereum.WalletConnect">
+     <HintPath>/home/luis/Projects/OuterMaze/Nethereum.Unity.WalletConnect/Runtime/Nethereum.WalletConnect.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Android.Types">
      <HintPath>/home/luis/Unity/Hub/Editor/2023.1.13f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll</HintPath>

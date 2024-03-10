@@ -41,8 +41,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Folder Include="/home/luis/Projects/AlephVault/Nethereum.Unity.WalletConnect/Runtime" />
-     <None Include="/home/luis/Projects/AlephVault/Nethereum.Unity.WalletConnect/Runtime/Nethereum.Unity.WalletConnect.asmdef" />
+     <Folder Include="/home/luis/Projects/OuterMaze/Nethereum.Unity.WalletConnect/Runtime" />
+     <None Include="/home/luis/Projects/OuterMaze/Nethereum.Unity.WalletConnect/Runtime/Nethereum.Unity.WalletConnect.asmdef" />
      <Reference Include="UnityEngine">
      <HintPath>/home/luis/Unity/Hub/Editor/2023.1.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
      </Reference>
