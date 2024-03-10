@@ -7,7 +7,7 @@
       "dependencies": {
         "com.alephvault.unity.support": "0.0.1",
         "com.alephvault.unity.layout": "0.0.1",
-        "com.alephvault.unity.menuactions": "0.0.1"
+        "com.alephvault.unity.menuactions": "0.0.2"
       }
     },
     "com.alephvault.unity.binary": {
@@ -320,6 +320,21 @@
         "com.alephvault.unity.layout": "0.0.1",
         "com.alephvault.unity.spriteutils": "0.0.4",
         "com.alephvault.unity.windrose": "0.0.4"
+      }
+    },
+    "com.nethereum.unity": {
+      "version": "file:../../Nethereum.Unity",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "com.nethereum.unity.walletconnect": {
+      "version": "file:../../Nethereum.Unity.WalletConnect",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.nethereum.unity": "4.19.2",
+        "com.walletconnect.core": "3.0.6"
       }
     },
     "com.unity.2d.animation": {

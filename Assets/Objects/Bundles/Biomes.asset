@@ -12,4 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f53f6e8b15ede54cba6359eaa0f1d9fb, type: 3}
   m_Name: Biomes
   m_EditorClassIdentifier: 
-  biomes: []
+  biomes:
+  - code: normal
+    name: Normal
+  - code: water
+    name: Water
+  - code: lava
+    name: Lava
+  - code: air
+    name: Air

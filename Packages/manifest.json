@@ -36,6 +36,8 @@
     "com.alephvault.unity.windrose.neighbourteleports": "file:../../unity-windrose-neighbourteleports",
     "com.alephvault.unity.windrose.refmapchars": "file:../../unity-windrose-refmapchars",
     "com.alephvault.unity.windrose.spriteutils": "file:../../unity-windrose-spriteutils",
+    "com.nethereum.unity": "file:../../Nethereum.Unity",
+    "com.nethereum.unity.walletconnect": "file:../../Nethereum.Unity.WalletConnect",
     "com.unity.2d.animation": "10.0.2",
     "com.unity.2d.pixel-perfect": "5.0.3",
     "com.unity.2d.psdimporter": "9.0.0",
