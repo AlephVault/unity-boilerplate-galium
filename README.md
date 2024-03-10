@@ -49,6 +49,8 @@ So far this project relies on a set of packages that I could consider, at best, 
  - com.alephvault.unity.evmgames.contracts: [Clone it - 0.0.1](https://github.com/AlephVault/unity-evmgames-contracts/tree/0.0.1).
  - com.alephvault.unity.evmgames.contracts.bridge: [Clone it - 0.0.1](https://github.com/AlephVault/unity-evmgames-bridge-contract/tree/0.0.1).
  - com.alephvault.unity.evmgames.deeplinks: [Clone it - 0.0.1](https://github.com/AlephVault/unity-evmgames-deeplinks/tree/0.0.1).
+ - com.nethereum.unity: [Clone it - 4.19.2](https://github.com/Nethereum/Nethereum.Unity/tree/4.19.2).
+ - com.nethereum.unity.walletconnect: [Clone it - 4.19.3](https://github.com/Nethereum/Nethereum.Unity.WalletConnect/tree/4.19.3).
 
 You can run the attached scripts to clone the dependencies after cloning this project:
 

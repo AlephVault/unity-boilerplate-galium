@@ -35,4 +35,5 @@ git clone --branch 0.0.1 git@github.com:AlephVault/unity-evmgames-localstorage.g
 git clone --branch 0.0.1 git@github.com:AlephVault/unity-evmgames-contracts.git ../unity-evmgames-contracts
 git clone --branch 0.0.1 git@github.com:AlephVault/unity-evmgames-bridge-contract.git ../unity-evmgames-bridge-contract
 git clone --branch 0.0.1 git@github.com:AlephVault/unity-evmgames-deeplinks.git ../unity-evmgames-deeplinks
-
+git clone --branch 4.19.2 https://github.com/Nethereum/Nethereum.Unity.git ../Nethereum.Unity
+git clone --branch 4.19.3 https://github.com/Nethereum/Nethereum.Unity.WalletConnect.git ../Nethereum.Unity.WalletConnect
