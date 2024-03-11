@@ -11,6 +11,7 @@
     "com.alephvault.unity.evmgames.deeplinks": "file:../../unity-evmgames-deeplinks",
     "com.alephvault.unity.evmgames.livecache": "file:../../unity-evmgames-livecache",
     "com.alephvault.unity.evmgames.localstorage": "file:../../unity-evmgames-localstorage",
+    "com.alephvault.unity.evmgames.wallets": "file:../../unity-evmgames-wallets",
     "com.alephvault.unity.gabtab": "file:../../unity-gabtab",
     "com.alephvault.unity.ipfs": "file:../../unity-ipfs",
     "com.alephvault.unity.layout": "file:../../unity-layout",
