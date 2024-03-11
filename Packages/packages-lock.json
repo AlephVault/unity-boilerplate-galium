@@ -93,6 +93,16 @@
         "com.alephvault.unity.evmgames": "0.0.2"
       }
     },
+    "com.alephvault.unity.evmgames.wallets": {
+      "version": "file:../../unity-evmgames-wallets",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.alephvault.unity.support": "0.0.2",
+        "com.unity.nuget.newtonsoft-json": "2.0.0",
+        "com.nethereum.unity": "4.19.2"
+      }
+    },
     "com.alephvault.unity.gabtab": {
       "version": "file:../../unity-gabtab",
       "depth": 0,
