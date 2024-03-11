@@ -64,7 +64,7 @@
       "depth": 0,
       "source": "local",
       "dependencies": {
-        "com.alephvault.unity.evmgames.contracts": "0.0.1"
+        "com.alephvault.unity.evmgames.contracts": "0.0.2"
       }
     },
     "com.alephvault.unity.evmgames.deeplinks": {
