@@ -163,9 +163,9 @@
       "depth": 0,
       "source": "local",
       "dependencies": {
-        "com.alephvault.unity.windrose": "0.0.7",
+        "com.alephvault.unity.windrose": "0.0.8",
         "com.alephvault.unity.meetgard.scopes": "0.0.3",
-        "com.alephvault.unity.meetgard": "0.0.5"
+        "com.alephvault.unity.meetgard": "0.0.6"
       }
     },
     "com.alephvault.unity.netrose.refmapchars": {
