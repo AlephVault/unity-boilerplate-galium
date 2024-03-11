@@ -173,7 +173,7 @@
       "depth": 0,
       "source": "local",
       "dependencies": {
-        "com.alephvault.unity.netrose": "0.0.3",
+        "com.alephvault.unity.netrose": "0.0.6",
         "com.alephvault.unity.windrose.refmapchars": "0.0.4",
         "com.alephvault.unity.binary": "0.0.2"
       }
