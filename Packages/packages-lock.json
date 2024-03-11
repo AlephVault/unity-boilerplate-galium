@@ -53,9 +53,9 @@
       "depth": 0,
       "source": "local",
       "dependencies": {
-        "com.alephvault.unity.menuactions": "0.0.1",
-        "com.alephvault.unity.boilerplates": "0.0.1",
-        "com.alephvault.unity.evmgames": "0.0.2",
+        "com.alephvault.unity.menuactions": "0.0.2",
+        "com.alephvault.unity.boilerplates": "0.0.2",
+        "com.alephvault.unity.evmgames.wallets": "0.0.1",
         "com.unity.nuget.newtonsoft-json": "2.0.0"
       }
     },
