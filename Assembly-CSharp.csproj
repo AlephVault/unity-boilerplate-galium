@@ -45,12 +45,7 @@
     <Analyzer Include="/home/luis/Unity/Hub/Editor/2023.1.13f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets/Scripts/Server/Authoring/Behaviours/External/Models/MultiCharAccount.cs" />
-     <Compile Include="Assets/Scripts/Server/Authoring/Behaviours/External/Client/MultiCharAccountAPIClient.cs" />
-     <Compile Include="Assets/Scripts/Server/Authoring/Behaviours/External/Models/Position.cs" />
-     <Compile Include="Assets/Scripts/Server/Authoring/Behaviours/External/Models/Scope.cs" />
-     <Compile Include="Assets/Scripts/Server/Authoring/Behaviours/External/Models/Map.cs" />
-     <Compile Include="Assets/Scripts/Server/Authoring/Behaviours/External/Models/Character.cs" />
+     <Compile Include="Assets/WalletConnectUnity/NewBehaviourScript.cs" />
      <Folder Include="Assets" />
      <Folder Include="Library/BuildInstructions" />
      <None Include="/home/luis/Projects/AlephVault/unity-boilerplates/package.json" />
@@ -82,7 +77,6 @@
      <Folder Include="Assets/Graphics/UI" />
      <Folder Include="Assets/Graphics/Tiles" />
      <Folder Include="Assets/Scripts/Client" />
-     <Folder Include="Assets/Objects/Bundles" />
      <Folder Include="/home/luis/Projects/AlephVault/unity-windrose-spriteutils" />
      <Folder Include="/home/luis/Projects/AlephVault/unity-spriteutils" />
      <Folder Include="Assets/Scripts/Client/Types" />
@@ -116,13 +110,11 @@
      <Folder Include="Assets/Scripts/Core/Authoring/Behaviours/MapObjects/ObjectStrategies" />
      <Folder Include="Assets/Scripts/Core/Authoring" />
      <Folder Include="Assets/Objects/Prefabs/Client" />
-     <Folder Include="Assets/Scripts/Server/Authoring/Behaviours/External/Models" />
      <None Include="/home/luis/Projects/AlephVault/unity-layout/package.json" />
      <Folder Include="Assets/Scripts/Server/Types" />
      <None Include="/home/luis/Projects/AlephVault/unity-binary/package.json" />
      <None Include="/home/luis/Projects/AlephVault/unity-windrose-cubeworlds/package.json" />
      <Folder Include="/home/luis/Projects/AlephVault/unity-evmgames-bridge-contract" />
-     <Folder Include="Assets/Graphics/Bundles" />
      <Folder Include="/home/luis/Projects/AlephVault/unity-windrose" />
      <Folder Include="/home/luis/Projects/AlephVault/unity-netrose" />
      <Folder Include="Assets/Scripts/Models" />
@@ -133,7 +125,6 @@
      <Folder Include="/home/luis/Projects/AlephVault/Nethereum.Unity.WalletConnect" />
      <None Include="/home/luis/Projects/AlephVault/unity-gabtab/package.json" />
      <None Include="/home/luis/Projects/AlephVault/Nethereum.Unity/package.json" />
-     <Folder Include="Assets/Graphics/Bundles/RefMap" />
      <None Include="/home/luis/Projects/AlephVault/unity-deeplinks/package.json" />
      <None Include="/home/luis/Projects/AlephVault/unity-windrose-refmapchars/package.json" />
      <Folder Include="Assets/Scripts/Core/Authoring/ScriptableObjects/Tiles" />
@@ -145,7 +136,6 @@
      <Folder Include="Assets/Objects/Prefabs/Core/Objects" />
      <Folder Include="Assets/WalletConnectUnity" />
      <Folder Include="Assets/Scripts/Server/Authoring/Types" />
-     <Folder Include="Assets/Scripts/Server/Authoring/Behaviours/External/Client" />
      <Folder Include="Assets/Scripts/Client/Authoring/Behaviours/Protocols" />
      <None Include="/home/luis/Projects/AlephVault/unity-netrose-refmapchars/package.json" />
      <Folder Include="/home/luis/Projects/AlephVault/unity-soundaround" />
