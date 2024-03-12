@@ -90,7 +90,7 @@
       "depth": 0,
       "source": "local",
       "dependencies": {
-        "com.alephvault.unity.evmgames": "0.0.2"
+        "com.nethereum.unity": "4.19.2"
       }
     },
     "com.alephvault.unity.evmgames.wallets": {
