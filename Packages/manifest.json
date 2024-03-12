@@ -98,9 +98,7 @@
       "name": "package.openupm.com",
       "url": "https://package.openupm.com",
       "scopes": [
-        "com.walletconnect.core",
-        "com.walletconnect.modal",
-        "com.walletconnect.ui"
+        "com.walletconnect"
       ]
     }
   ]
