@@ -73,7 +73,7 @@
       "source": "local",
       "dependencies": {
         "com.alephvault.unity.deeplinks": "0.0.1",
-        "com.alephvault.unity.evmgames": "0.0.2"
+        "com.nethereum.unity": "4.19.2"
       }
     },
     "com.alephvault.unity.evmgames.livecache": {
@@ -81,8 +81,8 @@
       "depth": 0,
       "source": "local",
       "dependencies": {
-        "com.alephvault.unity.evmgames": "0.0.2",
-        "com.alephvault.unity.remotestorage": "0.0.2"
+        "com.alephvault.unity.remotestorage": "0.0.2",
+        "com.nethereum.unity": "4.19.2"
       }
     },
     "com.alephvault.unity.evmgames.localstorage": {
