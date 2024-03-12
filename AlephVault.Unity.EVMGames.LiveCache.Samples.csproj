@@ -426,9 +426,6 @@
      <Reference Include="Microsoft.IdentityModel.Tokens">
      <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/External/Microsoft.IdentityModel.Tokens.dll</HintPath>
      </Reference>
-     <Reference Include="embedded-wallet-service-sdk">
-     <HintPath>/home/luis/Projects/AlephVault/unity-evmgames-wallets/Runtime/embedded-wallet-service-sdk.dll</HintPath>
-     </Reference>
      <Reference Include="System.Drawing.Common">
      <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Assets/Plugins/System.Drawing.Common.dll</HintPath>
      </Reference>
@@ -476,6 +473,9 @@
      </Reference>
      <Reference Include="Newtonsoft.Json">
      <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll</HintPath>
+     </Reference>
+     <Reference Include="embedded-wallet-service-sdk">
+     <HintPath>/home/luis/Projects/AlephVault/unity-evmgames-wallets/Runtime/embedded-wallet-service-sdk.dll</HintPath>
      </Reference>
      <Reference Include="WalletConnectSharp.Storage">
      <HintPath>/home/luis/Projects/AlephVault/unity-boilerplate-galium/Library/PackageCache/com.walletconnect.core@3.0.6/Runtime/WalletConnectSharp/WalletConnectSharp.Storage.dll</HintPath>
