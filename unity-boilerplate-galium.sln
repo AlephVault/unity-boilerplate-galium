@@ -113,8 +113,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.EVMGames.L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.WindRose.GabTab.Runtime", "AlephVault.Unity.WindRose.GabTab.Runtime.csproj", "{3c2f48f0-0a50-b8b9-e3e6-2c4e3bdf707c}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.EVMGames.Runtime", "AlephVault.Unity.EVMGames.Runtime.csproj", "{a966bc2e-96e2-72eb-0128-c4967e35e66a}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.NetRose.Storage.Editor", "AlephVault.Unity.NetRose.Storage.Editor.csproj", "{a2eb553d-1f8a-7458-d23c-246d504dc019}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.SoundAround", "AlephVault.Unity.SoundAround.csproj", "{bae6fa57-fa73-2f02-472b-dce6185b0aad}"
@@ -262,8 +260,6 @@ Global
 		{3866ce97-77d5-dcf2-816c-3d526a9b5455}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3c2f48f0-0a50-b8b9-e3e6-2c4e3bdf707c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3c2f48f0-0a50-b8b9-e3e6-2c4e3bdf707c}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{a966bc2e-96e2-72eb-0128-c4967e35e66a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{a966bc2e-96e2-72eb-0128-c4967e35e66a}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{a2eb553d-1f8a-7458-d23c-246d504dc019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{a2eb553d-1f8a-7458-d23c-246d504dc019}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{bae6fa57-fa73-2f02-472b-dce6185b0aad}.Debug|Any CPU.ActiveCfg = Debug|Any CPU

@@ -30,15 +30,6 @@
       "source": "local",
       "dependencies": {}
     },
-    "com.alephvault.unity.evmgames": {
-      "version": "file:../../unity-evmgames",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {
-        "com.alephvault.unity.support": "0.0.2",
-        "com.unity.nuget.newtonsoft-json": "2.0.0"
-      }
-    },
     "com.alephvault.unity.evmgames.auth": {
       "version": "file:../../unity-evmgames-auth",
       "depth": 0,

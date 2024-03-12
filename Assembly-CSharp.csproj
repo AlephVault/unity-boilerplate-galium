@@ -163,7 +163,6 @@
      <Folder Include="Assets/Graphics/Decals" />
      <Folder Include="Assets/Objects/Tiles/Bundled" />
      <Folder Include="/home/luis/Projects/AlephVault/unity-evmgames-livecache" />
-     <None Include="/home/luis/Projects/AlephVault/unity-evmgames/package.json" />
      <Folder Include="Assets/WalletConnectUnity/Resources" />
      <Folder Include="Assets/Graphics" />
      <Folder Include="Assets/Scripts/Server/Authoring/Behaviours" />
@@ -175,7 +174,6 @@
      <Folder Include="Assets/Scripts/Client/Authoring/Behaviours" />
      <None Include="/home/luis/Projects/AlephVault/unity-spriteutils/package.json" />
      <Folder Include="Assets/Objects/Prefabs" />
-     <Folder Include="/home/luis/Projects/AlephVault/unity-evmgames" />
      <Folder Include="/home/luis/Projects/AlephVault/unity-windrose-biomes" />
      <None Include="/home/luis/Projects/AlephVault/unity-support/package.json" />
      <Folder Include="Assets/Scripts/Core" />
@@ -1316,10 +1314,6 @@
     <ProjectReference Include="AlephVault.Unity.GabTab.Editor.csproj">
       <Project>{6ad6ccc4-6eac-c4bb-2a1a-d70a1441e7de}</Project>
       <Name>AlephVault.Unity.GabTab.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="AlephVault.Unity.EVMGames.Runtime.csproj">
-      <Project>{a966bc2e-96e2-72eb-0128-c4967e35e66a}</Project>
-      <Name>AlephVault.Unity.EVMGames.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="AlephVault.Unity.TextureUtils.Runtime.csproj">
       <Project>{e23916fa-b8ca-18f1-8f60-e1a407fc70de}</Project>
