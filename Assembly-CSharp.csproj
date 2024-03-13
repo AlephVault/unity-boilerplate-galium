@@ -77,6 +77,7 @@
      <Folder Include="Assets/Graphics/UI" />
      <Folder Include="Assets/Graphics/Tiles" />
      <Folder Include="Assets/Scripts/Client" />
+     <Folder Include="Assets/Objects/Bundles" />
      <Folder Include="/home/luis/Projects/AlephVault/unity-windrose-spriteutils" />
      <Folder Include="/home/luis/Projects/AlephVault/unity-spriteutils" />
      <Folder Include="Assets/Scripts/Client/Types" />
@@ -115,6 +116,7 @@
      <None Include="/home/luis/Projects/AlephVault/unity-binary/package.json" />
      <None Include="/home/luis/Projects/AlephVault/unity-windrose-cubeworlds/package.json" />
      <Folder Include="/home/luis/Projects/AlephVault/unity-evmgames-bridge-contract" />
+     <Folder Include="Assets/Graphics/Bundles" />
      <Folder Include="/home/luis/Projects/AlephVault/unity-windrose" />
      <Folder Include="/home/luis/Projects/AlephVault/unity-netrose" />
      <Folder Include="Assets/Scripts/Models" />
@@ -125,6 +127,7 @@
      <Folder Include="/home/luis/Projects/AlephVault/Nethereum.Unity.WalletConnect" />
      <None Include="/home/luis/Projects/AlephVault/unity-gabtab/package.json" />
      <None Include="/home/luis/Projects/AlephVault/Nethereum.Unity/package.json" />
+     <Folder Include="Assets/Graphics/Bundles/RefMap" />
      <None Include="/home/luis/Projects/AlephVault/unity-deeplinks/package.json" />
      <None Include="/home/luis/Projects/AlephVault/unity-windrose-refmapchars/package.json" />
      <Folder Include="Assets/Scripts/Core/Authoring/ScriptableObjects/Tiles" />
@@ -172,6 +175,7 @@
      <Folder Include="/home/luis/Projects/AlephVault/unity-textureutils" />
      <Folder Include="/home/luis/Projects/AlephVault/Nethereum.Unity" />
      <Folder Include="Assets/Objects/Prefabs/Client/Scopes" />
+     <Folder Include="Assets/Objects/Bundles/Core" />
      <None Include="/home/luis/Projects/AlephVault/unity-remotestorage/package.json" />
      <Folder Include="/home/luis/Projects/AlephVault/unity-evmgames-contracts" />
      <Folder Include="/home/luis/Projects/AlephVault/unity-layout" />
