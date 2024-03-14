@@ -135,8 +135,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.WindRose.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.WindRose.GabTab.Editor", "AlephVault.Unity.WindRose.GabTab.Editor.csproj", "{a3cf2e52-e072-9115-ff30-8cf81de99124}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{0dfc0975-c1e1-0fb6-b6c5-a242b0de7bc1}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nethereum", "Nethereum.csproj", "{e797bbca-3bc1-a21c-3810-6c5f4b239e3e}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephVault.Unity.LPCBiomes.Runtime", "AlephVault.Unity.LPCBiomes.Runtime.csproj", "{df8f664e-47db-f463-13c8-d5ffb1ec07c1}"
@@ -284,8 +282,6 @@ Global
 		{78751086-c9b3-464d-d512-7a4cf8be59a2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{a3cf2e52-e072-9115-ff30-8cf81de99124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{a3cf2e52-e072-9115-ff30-8cf81de99124}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0dfc0975-c1e1-0fb6-b6c5-a242b0de7bc1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0dfc0975-c1e1-0fb6-b6c5-a242b0de7bc1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{e797bbca-3bc1-a21c-3810-6c5f4b239e3e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{e797bbca-3bc1-a21c-3810-6c5f4b239e3e}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{df8f664e-47db-f463-13c8-d5ffb1ec07c1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
