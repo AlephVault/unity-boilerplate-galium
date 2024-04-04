@@ -6,7 +6,7 @@ This is an opinionated boilerplate project, and includes some default UI (which 
 Unity version
 -------------
 
-The current status is meant to be used in Unity 2023.1 due to issues in previous versions.
+The current status is meant to be used in Unity 2023.2.8f1 due to issues in previous versions.
 
 Dependencies versioning and status
 ----------------------------------
@@ -35,7 +35,7 @@ So far this project relies on a set of packages that I could consider, at best, 
  - com.alephvault.unity.windrose.spriteutils: [Clone it - 0.0.4](https://github.com/AlephVault/unity-windrose-spriteutils/tree/0.0.4).
  - com.alephvault.unity.windrose.neighbourteleports: [Clone it - 0.0.3](https://github.com/AlephVault/unity-windrose-neighbourteleports/tree/0.0.3).
  - com.alephvault.unity.windrose.cubeworlds: [Clone it - 0.0.1](https://github.com/AlephVault/unity-windrose-cubeworlds/tree/0.0.1).
- - com.alephvault.unity.windrose.refmapchars: [Clone it - 0.0.4](https://github.com/AlephVault/unity-windrose-refmapchars/tree/0.0.4).
+ - com.alephvault.unity.windrose.refmapchars: [Clone it - 0.0.5](https://github.com/AlephVault/unity-windrose-refmapchars/tree/0.0.5).
  - com.alephvault.unity.windrose.lpcbiomes: [Clone it - 0.0.1](https://github.com/AlephVault/unity-windrose-lpcbiomes/0.0.1).
  - com.alephvault.unity.netrose: [Clone it - 0.0.6](https://github.com/AlephVault/unity-netrose/tree/0.0.6).
  - com.alephvault.unity.netrose.storage: [Clone it - 0.0.2](https://github.com/AlephVault/unity-netrose-storage/tree/0.0.2).
